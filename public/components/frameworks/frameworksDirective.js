@@ -19,9 +19,9 @@
 
    }
 
-   FrameworksController.$inject = ['frameworksFactory'];
+   FrameworksController.$inject = ['frameworksFactory', '$scope'];
 
-   function FrameworksController(frameworksFactory) {
+   function FrameworksController(frameworksFactory, $scope) {
 
       var self = this;
 
@@ -44,6 +44,9 @@
       function deleteFramework(framework) {
          var index = self.frameworks.indexOf(framework);
          self.frameworks.splice(index, 1);
+         $scope.$on('destroy', function () {
+            alert('destroyed??');
+         });
       }
 
    }

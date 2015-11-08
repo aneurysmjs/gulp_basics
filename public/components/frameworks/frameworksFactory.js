@@ -5,9 +5,11 @@
       .module('frameworks')
       .factory('frameworksFactory', frameworksFactory);
    
-   frameworksFactory.$inject = ['API_URL', '$http', '$q'];
+   frameworksFactory.$inject = ['API_URL', '$http', '$q', '$cacheFactory'];
    
-   function frameworksFactory(API_URL, $http, $q) {
+   function frameworksFactory(API_URL, $http, $q, $cacheFactory) {
+
+      var jeroCache = $cacheFactory('jeroCache');
    
       return {
           getFrameworks: getFrameworks,
@@ -21,7 +23,7 @@
             $http({
                url: API_URL + '/frameworks',
                method: 'GET',
-               cache: true
+               cache: jeroCache
             })
             .then(function (promise) {
                resolve(promise.data);

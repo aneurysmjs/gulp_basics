@@ -5,25 +5,31 @@
    <title>Gulp Basics</title>
    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.css"/>
 </head>
-<body>
+<body class="container">
+
+<div class="page-header">
+   <h1>Gulp Basics <small>just read the source code</small></h1>
+</div>
 
 <button class="btn btn-default" type="button" ui-sref="home">Home</button>
 <button class="btn btn-default" type="button" ui-sref="frameworks">Frameworks</button>
-
-<main class="container-fluid" ui-view=""></main>
+<button class="btn btn-default" type="button" ui-sref="about">About</button>
+<hr/>
+<main ui-view=""></main>
 
 <script src="../node_modules/angular/angular.js"></script>
 <script src="../node_modules/angular-ui-router/release/angular-ui-router.js"></script>
 
-<!--inject:js-->
-<script src="/public/components/app.js"></script>
-<script src="/public/components/appRoutes.js"></script>
-<script src="/public/components/frameworks/frameworksDirective.js"></script>
-<script src="/public/components/frameworks/frameworksFactory.js"></script>
-<script src="/public/components/frameworks/frameworksModule.js"></script>
-<script src="/public/components/home/homeDirective.js"></script>
-<script src="/public/components/home/homeModule.js"></script>
-<!--endinject-->
+<script src="components/app.js"></script>
+<script src="components/appRoutes.js"></script>
+<script src="components/home/homeModule.js"></script>
+<script src="components/home/homeDirective.js"></script>
+<script src="components/frameworks/frameworksModule.js"></script>
+<script src="components/frameworks/frameworksDirective.js"></script>
+<script src="components/frameworks/frameworksFactory.js"></script>
+<script src="components/about/aboutModule.js"></script>
+<script src="components/about/aboutDirective.js"></script>
+
 
 </body>
 </html>
