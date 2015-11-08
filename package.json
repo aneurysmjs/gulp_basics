@@ -1,0 +1,32 @@
+{
+  "name": "gulp_basics",
+  "version": "1.0.0",
+  "description": "just a basic introduction to gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackendstudios/gulp_basics.git"
+  },
+  "keywords": [
+    "gulp",
+    "es6",
+    "es2015",
+    "reactjs",
+    "angularjs",
+    "angular2",
+    "nodejs",
+    "express",
+    "jasmin",
+    "mocha",
+    "karma"
+  ],
+  "author": "blackend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackendstudios/gulp_basics/issues"
+  },
+  "homepage": "https://github.com/blackendstudios/gulp_basics#readme"
+}
