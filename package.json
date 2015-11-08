@@ -33,7 +33,10 @@
     "gulp": "^3.9.0"
   },
   "dependencies": {
+    "angular": "^1.4.7",
+    "angular-ui-router": "^0.2.15",
     "body-parser": "^1.14.1",
+    "bootstrap": "^3.3.5",
     "cors": "^2.7.1",
     "express": "^4.13.3",
     "method-override": "^2.3.5",
