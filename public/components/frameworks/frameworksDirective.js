@@ -30,7 +30,9 @@
       function activate() {
 
          frameworksFactory.getFrameworks().then(function (response) {
-            self.frameworks = response;
+
+            self.frameworks = response.data;
+
          });
 
       }

@@ -34,13 +34,13 @@ gulp.task('lint', function () {
 });
 
 gulp.task('watch', function () {
-   gulp.watch(gulp.src('public/components/**/*js'), ['lint']);
+   gulp.watch(gulpConfig.app_files.js, ['lint', 'concatAll']);
 });
 
 gulp.task('concatAll', function () {
    return gulp.src(gulpConfig.app_files.js)
-      .pipe(concat('all.js'))
-      .pipe(gulp.dest('/public/dist'));
+      .pipe(concat('appFinal.js'))
+      .pipe(gulp.dest('./public/dist'));
 });
 
 gulp.task('mainTask', ['task1', 'task2', 'task3'], function () {
