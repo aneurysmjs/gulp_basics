@@ -5,12 +5,17 @@
    <title>Gulp Basics</title>
    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.css"/>
 </head>
-<body>
+<body class="container">
+
+<div class="page-header">
+   <h1>Gulp Basics <small>just read the source code</small></h1>
+</div>
 
 <button class="btn btn-default" type="button" ui-sref="home">Home</button>
 <button class="btn btn-default" type="button" ui-sref="frameworks">Frameworks</button>
-
-<main class="container" ui-view=""></main>
+<button class="btn btn-default" type="button" ui-sref="about">About</button>
+<hr/>
+<main ui-view=""></main>
 
 <script src="../node_modules/angular/angular.js"></script>
 <script src="../node_modules/angular-ui-router/release/angular-ui-router.js"></script>

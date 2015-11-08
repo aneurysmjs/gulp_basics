@@ -22,6 +22,10 @@
          .state('frameworks',{
             url: '/frameworks',
             templateUrl: 'components/frameworks/frameworks.html'
+         })
+         .state('about',{
+            url: '/about',
+            templateUrl: 'components/about/about.html'
          });
 
    }

@@ -43,12 +43,7 @@
 
       function deleteFramework(framework) {
          var index = self.frameworks.indexOf(framework);
-         console.log('--- framework--- ');
-         console.log(framework);
-         console.log('--- index--- ');
-         console.log(index);
          self.frameworks.splice(index, 1);
-         
       }
 
    }
