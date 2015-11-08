@@ -14,7 +14,7 @@
          controller: FrameworksController,
          controllerAs: 'frameworksCtrl',
          bindToController: true,
-         template: '<h1>Frameworks</h1>'
+         templateUrl: 'components/frameworks/frameworksTemplate.html'
       };
 
    }
@@ -30,11 +30,25 @@
       function activate() {
 
          frameworksFactory.getFrameworks().then(function (response) {
-
-            self.frameworks = response.data;
-
+            self.frameworks = response;
          });
 
+         frameworksFactory.getBigJSON().then(function (response) {
+            self.big = response;
+         });
+
+      }
+
+      self.deleteFramework = deleteFramework;
+
+      function deleteFramework(framework) {
+         var index = self.frameworks.indexOf(framework);
+         console.log('--- framework--- ');
+         console.log(framework);
+         console.log('--- index--- ');
+         console.log(index);
+         self.frameworks.splice(index, 1);
+         
       }
 
    }

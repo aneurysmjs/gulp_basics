@@ -1,0 +1,26 @@
+<div class="table-responsive">
+   <table class="table table-condensed">
+      <thead>
+      <tr>
+         <th>id</th>
+         <th>Name</th>
+         <th>Company</th>
+         <th>&nbsp;</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr ng-repeat="framework in frameworksCtrl.frameworks">
+         <td>{{framework.id}}</td>
+         <td>{{framework.name}}</td>
+         <td>{{framework.company}}</td>
+         <td>
+            <span class="glyphicon glyphicon-remove"
+                  ng-click="frameworksCtrl.deleteFramework(framework)">
+            </span>
+         </td>
+      </tr>
+      </tbody>
+   </table>
+</div>
+
+<pre>{{frameworksCtrl.big | json}}</pre>

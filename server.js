@@ -6,7 +6,8 @@ var express        = require('express'),
     cors           = require('cors'),
     app            = express();
 
-app.use(express.static(__dirname + '/public')); // set the static files location /public/img will be /img for users
+//app.use(express.static(__dirname + './public')); // set the static files location /public/img will be /img for users
+app.use(express.static('public'));
 app.use(morgan('dev')); 					         // log every request to the console
 //app.use(bodyParser());
 app.use(bodyParser.urlencoded({                 // pull information from html in POST
@@ -15,11 +16,16 @@ app.use(bodyParser.urlencoded({                 // pull information from html in
 app.use(methodOverride()); 					      // simulate DELETE and PUT
 app.use(cors());                                // enable CORS
 
-app.use(function(req, res, next) {
+app.all('/*', function(req, res, next) {
    res.header("Access-Control-Allow-Origin", "*");
    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
    res.header("Jero says", "Fuck you!!");
    next();
+});
+
+app.get('/assets/bigJSON', function(req, res) {
+   //res.send('sisa');
+   res.sendFile(__dirname + '/public/assets/bigJSON.json');
 });
 
 var frameworks = [

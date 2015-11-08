@@ -1,0 +1,7002 @@
+[
+  {
+    "Codigo": "A000",
+    "Simbolo": "jero",
+    "Descripcion": "COLERA DEBIDO A VIBRIO CHOLERAE O1, BIOTIPO CHOLERAE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A001",
+    "Simbolo": "jero",
+    "Descripcion": "COLERA DEBIDO A VIBRIO CHOLERAE O1, BIOTIPO EL TOR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A009",
+    "Simbolo": "jero",
+    "Descripcion": "COLERA NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A010",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE TIFOIDEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A011",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE PARATIFOIDEA A",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A012",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE PARATIFOIDEA B",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A013",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE PARATIFOIDEA C",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A014",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE PARATIFOIDEA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A020",
+    "Simbolo": "jero",
+    "Descripcion": "ENTERITIS DEBIDA A SALMONELLA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A021",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA DEBIDA A SALMONELLA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A022",
+    "Simbolo": "†",
+    "Descripcion": "INFECCIONES LOCALIZADAS DEBIDA A SALMONELLA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A028",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES ESPECIFICADAS COMO DEBIDAS A SALMONELLA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A029",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCIÓN DEBIDA A SALMONELLA NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A030",
+    "Simbolo": "jero",
+    "Descripcion": "SHIGELOSIS DEBIDA A SHIGELLA DYSENTERIAE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A031",
+    "Simbolo": "jero",
+    "Descripcion": "SHIGELOSIS DEBIDA A SHIGELLA FLEXNERI",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A032",
+    "Simbolo": "jero",
+    "Descripcion": "SHIGELOSIS DEBIDA A SHIGELLA BOYDII",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A033",
+    "Simbolo": "jero",
+    "Descripcion": "SHIGELOSIS DEBIDA A SHIGELLA SONNEI",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A038",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS SHIGELOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A039",
+    "Simbolo": "jero",
+    "Descripcion": "SHIGELOSIS DE TIPO NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A040",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A ESCHERICHIA COLI ENTEROPATOGENA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A041",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A ESCHERICHIA COLI ENTEROTOXIGENA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A042",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A ESCHERICHIA COLI ENTEROINVASIVA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A043",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A ESCHERICHIA COLI ENTEROHEMORRAGICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A044",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES INTESTINALES DEBIDAS A ESCHERICHIA COLI",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A045",
+    "Simbolo": "jero",
+    "Descripcion": "ENTERITIS DEBIDA A CAMPYLOBACTER",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A046",
+    "Simbolo": "jero",
+    "Descripcion": "ENTERITIS DEBIDA A YERSINIA ENTEROCOLITICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A047",
+    "Simbolo": "jero",
+    "Descripcion": "ENTEROCOLITIS DEBIDA A CLOSTRIDIUM DIFFICILE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A048",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES INTESTINALES BACTERIANAS ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A049",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION INTESTINAL BACTERIANA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A050",
+    "Simbolo": "jero",
+    "Descripcion": "INTOXICACION ALIMENTARIA ESTAFILOCOCICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A051",
+    "Simbolo": "jero",
+    "Descripcion": "BOTULISMO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A052",
+    "Simbolo": "jero",
+    "Descripcion": "INTOXICACION ALIMENTARIA DEBIDA A CLOSTRIDIUM PERFRINGENS [CLOSTRIDIUM WELCHII]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A053",
+    "Simbolo": "jero",
+    "Descripcion": "INTOXICACION ALIMENTARIA DEBIDA A VIBRIO PARAHAEMOLYTICUS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A054",
+    "Simbolo": "jero",
+    "Descripcion": "INTOXICACION ALIMENTARIA DEBIDA A BACILLUS CEREUS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A058",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INTOXICACIONES ALIMENTARIAS DEBIDAS A BACTERIAS ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A059",
+    "Simbolo": "jero",
+    "Descripcion": "INTOXICACION ALIMENTARIA BACTERIANA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A060",
+    "Simbolo": "jero",
+    "Descripcion": "DISENTERIA AMEBIANA AGUDA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A061",
+    "Simbolo": "jero",
+    "Descripcion": "AMEBIASIS INTESTINAL CRONICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A062",
+    "Simbolo": "jero",
+    "Descripcion": "COLITIS AMEBIANA NO DISENTERICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A063",
+    "Simbolo": "jero",
+    "Descripcion": "AMEBOMA INTESTINAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A064",
+    "Simbolo": "jero",
+    "Descripcion": "ABSCESO AMEBIANO DEL HIGADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A065",
+    "Simbolo": "†",
+    "Descripcion": "ABSCESO AMEBIANO DEL PULMON (J99.8*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A066",
+    "Simbolo": "†",
+    "Descripcion": "ABSCESO AMEBIANO DEL CEREBRO (G07*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A067",
+    "Simbolo": "jero",
+    "Descripcion": "AMEBIASIS CUTANEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A068",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION AMEBIANA DE OTRAS LOCALIZACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A069",
+    "Simbolo": "jero",
+    "Descripcion": "AMEBIASIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A070",
+    "Simbolo": "jero",
+    "Descripcion": "BALANTIDIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A071",
+    "Simbolo": "jero",
+    "Descripcion": "GIARDIASIS [LAMBLIASIS]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A072",
+    "Simbolo": "jero",
+    "Descripcion": "CRIPTOSPORIDIOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A073",
+    "Simbolo": "jero",
+    "Descripcion": "ISOSPORIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A078",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ENFERMEDADES INTESTINALES ESPECIFICADAS DEBIDAS A PROTOZOARIOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A079",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD INTESTINAL DEBIDA A PROTOZOARIOS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A080",
+    "Simbolo": "jero",
+    "Descripcion": "ENTERITIS DEBIDA A ROTAVIRUS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A081",
+    "Simbolo": "jero",
+    "Descripcion": "GASTROENTEROPATIA AGUDA DEBIDA AL AGENTE DE NORWALK",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A082",
+    "Simbolo": "jero",
+    "Descripcion": "ENTERITIS DEBIDA A ADENOVIRUS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A083",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ENTERITIS VIRALES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A084",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION INTESTINAL VIRAL, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A085",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES INTESTINALES ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A09X",
+    "Simbolo": "jero",
+    "Descripcion": "DIARREA Y GASTROENTERITIS DE PRESUNTO ORIGEN INFECCIOSO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A150",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS DEL PULMON, CONFIRMADA POR HALLAZGO MICROSCOPICO DEL BACILO TUBERCULOSO EN ESPUTO, CON O SIN CULTIVO",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A151",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS DEL PULMON, CONFIRMADA UNICAMENTE POR CULTIVO",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A152",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS DEL PULMON, CONFIRMADA HISTOLOGICAMENTE",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A153",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS DEL PULMON , CONFIRMADA POR MEDIOS NO ESPECIFICADOS",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A154",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS DE GANGLIOS LINFATICOS INTRATORACICOS, CONFIRMADA BACTERIOLOGICA E HISTOLOGICAMENTE",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A155",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS DE LARINGE, TRAQUEA Y BRONQUIOS, CONFIRMADA BACTERIOLOGICA E HISTOLOGICAMENTE",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A156",
+    "Simbolo": "jero",
+    "Descripcion": "PLEURESIA TUBERCULOSA, CONFIRMADA BACTERIOLOGICA E HISTOLOGICAMENTE",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A157",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS RESPIRATORIA PRIMARIA, CONFIRMADA BACTERIOLOGICA E HISTOLOGICAMENTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A158",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS TUBERCULOSIS RESPIRATORIAS, CONFIRMADAS BACTERIOLOGICA E HISTOLOGICAMENTE",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A159",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS RESPIRATORIA NO ESPECIFICADA, CONFIRMADA BACTERIOLOGICAMENTE E HISTOLOGICAMENTE",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A160",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS DEL PULMON, CON EXAMEN BACTERIOLOGICO E HISTOLOGICO NEGATIVOS",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A161",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS DEL PULMON, SIN EXAMEN BACTERIOLOGICO E HISTOLOGICO",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A162",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS DE PULMON, SIN MENCION DE CONFIRMACION BACTERIOLOGICA O HISTOLOGICA",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A163",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS DE GANGLIOS LINFATICOS INTRATORACICOS, SIN MENCION DE CONFIRMACION BACTERIOLOGICA O HISTOLOGICA",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A164",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS DE LARINGE, TRAQUEA Y BRONQUIOS, SIN MENCION DE CONFIRMACION BACTERIOLOGICA O HISTOLOGICA",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A165",
+    "Simbolo": "jero",
+    "Descripcion": "PLEURESIA TUBERCULOSA, SIN MENCION DE CONFIRMACION BACTERIOLOGICA E HISTOLOGICA",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A167",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS RESPIRATORIA PRIMARIA, SIN MENCION DE CONFIRMACION BACTERIOLOGICA E HISTOLOGICA",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A168",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS TUBERCULOSIS RESPIRATORIAS, SIN MENCION DE CONFIRMACION",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A169",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS RESPIRATORIA NO ESPECIFICADA, SIN MENCION DE CONFIRMACION BACTERIOLOGICA O HISTOLOGICA",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A170",
+    "Simbolo": "†",
+    "Descripcion": "MENINGITIS TUBERCULOSA (G01*)",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A171",
+    "Simbolo": "†",
+    "Descripcion": "TUBERCULOMA MENINGEO (G07*)",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A178",
+    "Simbolo": "†",
+    "Descripcion": "OTRAS TUBERCULOSIS DEL SISTEMA NERVIOSO",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A179",
+    "Simbolo": "†",
+    "Descripcion": "TUBERCULOSIS DEL SISTEMA NERVIOSO, NO ESPECIFICADA (G99.8*)",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A180",
+    "Simbolo": "†",
+    "Descripcion": "TUBERCULOSIS DE HUESOS Y ARTICULACIONES",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A181",
+    "Simbolo": "†",
+    "Descripcion": "TUBERCULOSIS DEL APARATO GENITOURINARIO",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A182",
+    "Simbolo": "jero",
+    "Descripcion": "LINFADENOPATIA PERIFERICA TUBERCULOSA",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A183",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS DE LOS INTESTINOS, EL PERITONEO Y LOS GANGLIOS MESENTERICOS",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A184",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS DE LA PIEL Y EL TEJIDO SUBCUTANEO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A185",
+    "Simbolo": "†",
+    "Descripcion": "TUBERCULOSIS DEL OJO",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A186",
+    "Simbolo": "†",
+    "Descripcion": "TUBERCULOSIS DEL OIDO",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A187",
+    "Simbolo": "†",
+    "Descripcion": "TUBERCULOSIS DE GLANDULAS SUPRARRENALES (E35.1*)",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A188",
+    "Simbolo": "†",
+    "Descripcion": "TUBERCULOSIS DE OTROS ORGANOS ESPECIFICADOS",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A190",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS MILIAR AGUDA DE UN SOLO SITIO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A191",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS MILIAR AGUDA DE SITIOS MULTIPLES",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A192",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS MILIAR AGUDA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A198",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS TUBERCULOSIS MILIARES",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A199",
+    "Simbolo": "jero",
+    "Descripcion": "TUBERCULOSIS MILIAR, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A200",
+    "Simbolo": "jero",
+    "Descripcion": "PESTE BUBONICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A201",
+    "Simbolo": "jero",
+    "Descripcion": "PESTE CELULOCUTANEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A202",
+    "Simbolo": "jero",
+    "Descripcion": "PESTE NEUMONICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A203",
+    "Simbolo": "jero",
+    "Descripcion": "MENINGITIS POR PESTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A207",
+    "Simbolo": "jero",
+    "Descripcion": "PESTE SEPTICEMICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A208",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE PESTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A209",
+    "Simbolo": "jero",
+    "Descripcion": "PESTE, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A210",
+    "Simbolo": "jero",
+    "Descripcion": "TULAREMIA ULCEROGLANDULAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A211",
+    "Simbolo": "jero",
+    "Descripcion": "TULAREMIA OCULOGLANDULAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A212",
+    "Simbolo": "jero",
+    "Descripcion": "TULAREMIA PULMONAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A213",
+    "Simbolo": "jero",
+    "Descripcion": "TULAREMIA GASTROINTESTINAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A217",
+    "Simbolo": "jero",
+    "Descripcion": "TULAREMIA GENERALIZADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A218",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE TULAREMIA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A219",
+    "Simbolo": "jero",
+    "Descripcion": "TULAREMIA , NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A220",
+    "Simbolo": "jero",
+    "Descripcion": "CARBUNCO CUTANEO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A221",
+    "Simbolo": "jero",
+    "Descripcion": "CARBUNCO PULMONAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A222",
+    "Simbolo": "jero",
+    "Descripcion": "CARBUNCO GASTROINTESTINAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A227",
+    "Simbolo": "jero",
+    "Descripcion": "CARBUNCO SEPTICEMICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A228",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE CARBUNCO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A229",
+    "Simbolo": "jero",
+    "Descripcion": "CARBUNCO, NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A230",
+    "Simbolo": "jero",
+    "Descripcion": "BRUCELOSIS DEBIDA A BRUCELLA MELITENSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A231",
+    "Simbolo": "jero",
+    "Descripcion": "BRUCELOSIS DEBIDA A BRUCELLA ABORTUS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A232",
+    "Simbolo": "jero",
+    "Descripcion": "BRUCELOSIS DEBIDA A BRUCELLA SUIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A233",
+    "Simbolo": "jero",
+    "Descripcion": "BRUCELOSIS DEBIDA A BRUCELLA CANIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A238",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS BRUCELOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A239",
+    "Simbolo": "jero",
+    "Descripcion": "BRUCELOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A240",
+    "Simbolo": "jero",
+    "Descripcion": "MUERMO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A241",
+    "Simbolo": "jero",
+    "Descripcion": "MELIOIDOSIS AGUDA Y FULMINANTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A242",
+    "Simbolo": "jero",
+    "Descripcion": "MELIOIDOSIS SUBAGUDA Y CRONICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A243",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS MELIOIDOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A244",
+    "Simbolo": "jero",
+    "Descripcion": "MELIOIDOSIS , NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A250",
+    "Simbolo": "jero",
+    "Descripcion": "ESPIRILOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A251",
+    "Simbolo": "jero",
+    "Descripcion": "ESTREPTOBACILOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A259",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE POR MORDEDURA DE RATA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A260",
+    "Simbolo": "jero",
+    "Descripcion": "ERISIPELOIDE CUTANEO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A267",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA POR ERYSIPELOTHRIX",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A268",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE ERISIPELOIDE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A269",
+    "Simbolo": "jero",
+    "Descripcion": "ERISIPELOIDE, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A270",
+    "Simbolo": "jero",
+    "Descripcion": "LEPTOSPIROSIS ICTEROHEMORRAGICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A278",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE LEPTOSPIROSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A279",
+    "Simbolo": "jero",
+    "Descripcion": "LEPTOSPIROSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A280",
+    "Simbolo": "jero",
+    "Descripcion": "PASTEURELOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A281",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR RASGUÑO DE GATO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A282",
+    "Simbolo": "jero",
+    "Descripcion": "YERSINIOSIS EXTRAINTESTINAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A288",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ENFERMEDADES ZOONOTICAS BACTERIANAS ESPECIFICADAS, NO CLASIFICADAS EN OTRA PARTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A289",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD ZOONOTICA BACTERIANA, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A300",
+    "Simbolo": "jero",
+    "Descripcion": "LEPRA INDETERMINADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A301",
+    "Simbolo": "jero",
+    "Descripcion": "LEPRA TUBERCULOIDE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A302",
+    "Simbolo": "jero",
+    "Descripcion": "LEPRA TUBERCULOIDE LIMITROFE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A303",
+    "Simbolo": "jero",
+    "Descripcion": "LEPRA LIMITROFE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A304",
+    "Simbolo": "jero",
+    "Descripcion": "LEPRA LEPROMATOSA LIMITROFE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A305",
+    "Simbolo": "jero",
+    "Descripcion": "LEPRA LEPROMATOSA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A308",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE LEPRA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A309",
+    "Simbolo": "jero",
+    "Descripcion": "LEPRA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A310",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCIONES POR MICOBACTERIAS PULMONARES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A311",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION CUTANEA POR MICOBACTERIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A318",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES POR MICOBACTERIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A319",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION POR MICOBACTERIA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A320",
+    "Simbolo": "jero",
+    "Descripcion": "LISTERIOSIS CUTANEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A321",
+    "Simbolo": "†",
+    "Descripcion": "MENINGITIS Y MENINGOENCEFALITIS LISTERIANA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A327",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA LISTERIANA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A328",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE LISTERIOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A329",
+    "Simbolo": "jero",
+    "Descripcion": "LISTERIOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A33X",
+    "Simbolo": "jero",
+    "Descripcion": "TETANOS NEONATAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A34X",
+    "Simbolo": "jero",
+    "Descripcion": "TETANOS OBSTETRICO",
+    "Sexo": "M",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A35X",
+    "Simbolo": "jero",
+    "Descripcion": "OTROS TETANOS",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A360",
+    "Simbolo": "jero",
+    "Descripcion": "DIFTERIA FARINGEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A361",
+    "Simbolo": "jero",
+    "Descripcion": "DIFTERIA NASOFARINGEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A362",
+    "Simbolo": "jero",
+    "Descripcion": "DIFTERIA LARINGEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A363",
+    "Simbolo": "jero",
+    "Descripcion": "DIFTERIA CUTANEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A368",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS DIFTERIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A369",
+    "Simbolo": "jero",
+    "Descripcion": "DIFTERIA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A370",
+    "Simbolo": "jero",
+    "Descripcion": "TOS FERINA DEBIDA A BORDETELLA PERTUSSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A371",
+    "Simbolo": "jero",
+    "Descripcion": "TOS FERINA DEBIDA A BORDETELLA PARAPERTUSSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A378",
+    "Simbolo": "jero",
+    "Descripcion": "TOS FERINA DEBIDA A OTRAS ESPECIES DE BORDETELLA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A379",
+    "Simbolo": "jero",
+    "Descripcion": "TOS FERINA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A38X",
+    "Simbolo": "jero",
+    "Descripcion": "ESCARLATINA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A390",
+    "Simbolo": "†",
+    "Descripcion": "MENINGITIS MENINGOCOCICA (G01*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A391",
+    "Simbolo": "†",
+    "Descripcion": "SINDROME DE WATERHOUSE-FRIDERICHSEN (E35.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A392",
+    "Simbolo": "jero",
+    "Descripcion": "MENINGOCOCEMIA AGUDA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A393",
+    "Simbolo": "jero",
+    "Descripcion": "MENINGOCOCEMIA CRONICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A394",
+    "Simbolo": "jero",
+    "Descripcion": "MENINGOCOCEMIA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A395",
+    "Simbolo": "†",
+    "Descripcion": "ENFERMEDAD CARDIACA DEBIDA A MENINGOCOCO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A398",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES MENINGOCOCICAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A399",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION MENINGOCOCICA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A400",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA DEBIDA A ESTREPTOCOCO, GRUPO A",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A401",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA DEBIDA A ESTREPTOCOCO, GRUPO B",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A402",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA DEBIDA A ESTREPTOCOCO, GRUPO D",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A403",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA DEBIDA A STREPTOCOCCUS PNEUMONIAE",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A408",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS SEPTICEMIAS ESTREPTOCOCICAS",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A409",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA ESTREPTOCOCICA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A410",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA DEBIDA STAPHYLOCOCCUS AUREUS",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A411",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA DEBIDA A OTRO ESTAFILOCOCO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A412",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA DEBIDA A ESTAFILOCOCO NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A413",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA DEBIDA A HAEMOPHILUS INFLUENZAE",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A414",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA DEBIDA A ANAEROBIOS",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A415",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA DEBIDA A OTROS ORGANISMOS GRAMNEGATIVOS",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A418",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS SEPTICEMIAS ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A419",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "A420",
+    "Simbolo": "jero",
+    "Descripcion": "ACTINOMICOSIS PULMONAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A421",
+    "Simbolo": "jero",
+    "Descripcion": "ACTINOMICOSIS ABDOMINAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A422",
+    "Simbolo": "jero",
+    "Descripcion": "ACTINOMICOSIS CERVICOFACIAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A427",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA ACTINOMICOTICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A428",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE ACTINOMICOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A429",
+    "Simbolo": "jero",
+    "Descripcion": "ACTINOMICOSIS, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A430",
+    "Simbolo": "jero",
+    "Descripcion": "NOCARDIOSIS PULMONAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A431",
+    "Simbolo": "jero",
+    "Descripcion": "NOCARDIOSIS CUTANEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A438",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE NOCARDIOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A439",
+    "Simbolo": "jero",
+    "Descripcion": "NORCARDIOSIS , NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A440",
+    "Simbolo": "jero",
+    "Descripcion": "BARTONELOSIS SISTEMICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A441",
+    "Simbolo": "jero",
+    "Descripcion": "BARTONELOSIS CUTANEA Y MUCOCUTANEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A448",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE BARTONELOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A449",
+    "Simbolo": "jero",
+    "Descripcion": "BARTONELOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A46X",
+    "Simbolo": "jero",
+    "Descripcion": "ERISIPELA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A480",
+    "Simbolo": "jero",
+    "Descripcion": "GANGRENA GASEOSA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A481",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD DE LOS LEGIONARIOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A482",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD DE LOS LEGIONARIOS NO NEUMONICA [FIEBRE DE PONTIAC]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A483",
+    "Simbolo": "jero",
+    "Descripcion": "SINDROME DE CHOQUE TOXICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A484",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE PURPURICA BRASILEÑA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A488",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ENFERMEDADES BACTERIANAS ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A490",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION ESTAFILOCOCICA, SIN OTRA ESPECIFICACIÓN",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A491",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION ESTREPTOCOCICA, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A492",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION POR HAEMOPHILUS INFLUENZAE, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A493",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION POR MICOPLASMA, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A498",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES BACTERIANAS DE SITIO NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A499",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION BACTERIANA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A500",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS CONGENITA PRECOZ, SINTOMATICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A501",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS CONGENITA PRECOZ, LATENTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A502",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS CONGENITA PRECOZ SIN OTRA ESPECIFICACIÓN",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A503",
+    "Simbolo": "jero",
+    "Descripcion": "OCULOPATIA SIFILITICA CONGENITA TARDIA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A504",
+    "Simbolo": "jero",
+    "Descripcion": "NEUROSIFILIS CONGENITA TARDIA [NEUROSIFILIS JUVENIL]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A505",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE SIFILIS CONGENITA TARDIA, SINTOMATICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A506",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS CONGENITA TARDIA, LATENTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A507",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS CONGENITA TARDIA, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A509",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS CONGENITA, SIN OTRA ESPECIFICACIÓN",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A510",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS GENITAL PRIMARIA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A511",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS PRIMARIA ANAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A512",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS PRIMARIA EN OTROS SITIOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A513",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS SECUNDARIA DE PIEL Y MEMBRANAS MUCOSAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A514",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS SIFILIS SECUNDARIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A515",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS PRECOZ, LATENTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A519",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS PRECOZ, SIN OTRA ESPECIFICACIÓN",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A520",
+    "Simbolo": "†",
+    "Descripcion": "SIFILIS CARDIOVASCULAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A521",
+    "Simbolo": "jero",
+    "Descripcion": "NEUROSIFILIS SINTOMATICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A522",
+    "Simbolo": "jero",
+    "Descripcion": "NEUROSIFILIS ASINTOMATICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A523",
+    "Simbolo": "jero",
+    "Descripcion": "NEUROSIFILIS NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A527",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS SIFILIS TARDIAS SINTOMATICAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A528",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS TARDIA, LATENTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A529",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS TARDIA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A530",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS LATENTE, NO ESPECIFICADA COMO PRECOZ O TARDIA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A539",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A540",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION GONOCOCICA DEL TRACTO GENITOURINARIO INFERIOR SIN ABSCESO PERIURETRAL O DE GLANDULA ACCESORIA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A541",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION GONOCOCICA DEL TRACTO GENITOURINARIO INFERIOR CON ABSCESO PERIURETRAL Y DE GLANDULAS ACCESORIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A542",
+    "Simbolo": "†",
+    "Descripcion": "PELVIPERITONITIS GONOCOCICA Y OTRAS INFECCIONES GONOCOCICAS GENITOURINARIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A543",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION GONOCOCICA DEL OJO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A544",
+    "Simbolo": "†",
+    "Descripcion": "INFECCION GONOCOCICA DEL SISTEMA OSTEOMUSCULAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A545",
+    "Simbolo": "jero",
+    "Descripcion": "FARINGITIS GONOCOCICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A546",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION GONOCOCICA DEL ANO Y DEL RECTO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A548",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES GONOCOCICAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A549",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION, GONOCOCICA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A55X",
+    "Simbolo": "jero",
+    "Descripcion": "LINFOGRANULOMA (VENEREO) POR CLAMIDIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A560",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEL TRACTO GENITOURINARIO INFERIOR DEBIDA A CLAMIDIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A561",
+    "Simbolo": "†",
+    "Descripcion": "INFECCION DEL PELVIPERITONEO Y OTROS ORGANOS GENITOURINARIOS DEBIDA A CLAMIDIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A562",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCIONES DEL TRACTO GENITOURINARIO DEBIDAS A CLAMIDIAS, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A563",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEL ANO Y DEL RECTO DEBIDA A CLAMIDIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A564",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DE FARINGE DEBIDA A CLAMIDIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A568",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DE TRANSMISIÓN SEXUAL DE OTROS SITIOS DEBIDA A CLAMIDIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A57X",
+    "Simbolo": "jero",
+    "Descripcion": "CHANCRO BLANDO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A58X",
+    "Simbolo": "jero",
+    "Descripcion": "GRANULOMA INGUINAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A590",
+    "Simbolo": "jero",
+    "Descripcion": "TRICOMONIASIS UROGENITAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A598",
+    "Simbolo": "jero",
+    "Descripcion": "TRICOMONIASIS DE OTROS SITIOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A599",
+    "Simbolo": "jero",
+    "Descripcion": "TRICOMONIASIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A600",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DE GENITALES Y TRAYECTO UROGENITAL Y DEBIDA A VIRUS DEL HERPES [HERPES SIMPLE]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A601",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DE LA PIEL PERIANAL Y RECTO POR VIRUS DEL HERPES SIMPLE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A609",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION ANOGENITAL POR VIRUS DEL HERPES SIMPLE, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A630",
+    "Simbolo": "jero",
+    "Descripcion": "VERRUGAS (VENEREAS) ANOGENITALES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A638",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ENFERMEDADES DE TRANSMISIÓN PREDOMINANTEMENTE SEXUAL, ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A64X",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD DE TRANSMISION SEXUAL NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A65X",
+    "Simbolo": "jero",
+    "Descripcion": "SIFILIS NO VENEREA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A660",
+    "Simbolo": "jero",
+    "Descripcion": "LESIONES INICIALES DE FRAMBESIA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A661",
+    "Simbolo": "jero",
+    "Descripcion": "LESIONES PAPILOMATOSAS MULTIPLES Y FRAMBESIA CON PASO DE CANGREJO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A662",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS LESIONES PRECOCES DE LA PIEL EN LA FRAMBESIA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A663",
+    "Simbolo": "jero",
+    "Descripcion": "HIPERQUERATOSIS DE FRAMBESIA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A664",
+    "Simbolo": "jero",
+    "Descripcion": "GOMA Y ULCERAS DE FRAMBESIA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A665",
+    "Simbolo": "jero",
+    "Descripcion": "GANGOSA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A666",
+    "Simbolo": "jero",
+    "Descripcion": "LESIONES FRAMBESICAS DE LOS HUESOS Y DE LAS ARTICULACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A667",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS MANIFESTACIONES DE FRAMBESIA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A668",
+    "Simbolo": "jero",
+    "Descripcion": "FRAMBESIA LATENTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A669",
+    "Simbolo": "jero",
+    "Descripcion": "FRAMBESIA , NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A670",
+    "Simbolo": "jero",
+    "Descripcion": "LESIONES PRIMARIAS DE LA PINTA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A671",
+    "Simbolo": "jero",
+    "Descripcion": "LESIONES INTERMEDIAS DE LA PINTA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A672",
+    "Simbolo": "jero",
+    "Descripcion": "LESIONES TARDIAS DE LA PINTA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A673",
+    "Simbolo": "jero",
+    "Descripcion": "LESIONES MIXTAS DE LA PINTA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A679",
+    "Simbolo": "jero",
+    "Descripcion": "PINTA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A680",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE RECURRENTE TRANSMITIDA POR PIOJOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A681",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE RECURRENTE TRANSMITIDA POR GARRAPATAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A689",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE RECURRENTE, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A690",
+    "Simbolo": "jero",
+    "Descripcion": "ESTOMATITIS ULCERATIVA NECROTIZANTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A691",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES DE VICENT",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A692",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD DE LYME",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A698",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES ESPECIFICADAS POR ESPIROQUETAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A699",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION POR ESPIROQUETA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A70X",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A CHLAMYDIA PSITTACI",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A710",
+    "Simbolo": "jero",
+    "Descripcion": "ESTADO INICIAL DE TRACOMA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A711",
+    "Simbolo": "jero",
+    "Descripcion": "ESTADO ACTIVO DE TRACOMA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A719",
+    "Simbolo": "jero",
+    "Descripcion": "TRACOMA, NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A740",
+    "Simbolo": "†",
+    "Descripcion": "CONJUNTIVITIS POR CLAMIDIAS (H13.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A748",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ENFERMEDADES POR CLAMIDIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A749",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION POR CLAMIDIAS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A750",
+    "Simbolo": "jero",
+    "Descripcion": "TIFUS EPIDEMICO DEBIDO A RICKETTSIA PROWAZEKII TRANSMITIDO POR PIOJOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A751",
+    "Simbolo": "jero",
+    "Descripcion": "TIFUS RECRUDESCENTE [ENFERMEDAD DE BRILL]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A752",
+    "Simbolo": "jero",
+    "Descripcion": "TIFUS DEBIDO A RICKETTSIA TYPHI",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A753",
+    "Simbolo": "jero",
+    "Descripcion": "TIFUS DEBIDO A RICKETTSIA TSUTSUGAMUSHI",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A759",
+    "Simbolo": "jero",
+    "Descripcion": "TIFUS, NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A770",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE MACULOSA DEBIDO A RICKETTSIA RICKETTSII",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A771",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE MACULOSA DEBIDO A RICKETTSIA CONORII",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A772",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE MACULOSA DEBIDO A RICKETTSIA SIBERICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A773",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE MACULOSA DEBIDO A RICKETTSIA AUSTRALIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A778",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FIEBRES MACULOSAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A779",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE MACULOSA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A78X",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE Q",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A790",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE DE LAS TRINCHERAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A791",
+    "Simbolo": "jero",
+    "Descripcion": "RICKETTSIOSIS PUSTULOSA DEBIDA A RICKETTSIA AKARI",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A798",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS RICKETTSIOSIS ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A799",
+    "Simbolo": "jero",
+    "Descripcion": "RICKETTSIOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A800",
+    "Simbolo": "jero",
+    "Descripcion": "POLIOMIELITIS AGUDA PARALITICA, ASOCIADA A VACUNA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A801",
+    "Simbolo": "jero",
+    "Descripcion": "POLIOMIELITIS AGUDA PARALITICA DEBIDA A VIRUS SALVAJE IMPORTADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A802",
+    "Simbolo": "jero",
+    "Descripcion": "POLIOMIELITIS AGUDA PARALITICA DEBIDA A VIRUS SALVAJE AUTOCTONO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A803",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS POLIOMIELITIS AGUDAS PARALITICAS, Y NO LAS ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A804",
+    "Simbolo": "jero",
+    "Descripcion": "POLIOMIELITIS AGUDA NO PARALITICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A809",
+    "Simbolo": "jero",
+    "Descripcion": "POLIOMIELITIS AGUDA, SIN OTRA ESPECIFICACIÓN",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A810",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD DE CREUTZFELDT-JAKOB",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A811",
+    "Simbolo": "jero",
+    "Descripcion": "PANENCEFALITIS ESCLEROSANTE SUBAGUDA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A812",
+    "Simbolo": "jero",
+    "Descripcion": "LEUCOENCEFALOPATIA MULTIFOCAL PROGRESIVA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A818",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES DEL SISTEMA NERVIOSO POR VIRUS ATIPICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A819",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCIONES DEL SISTEMA NERVIOSO CENTRAL POR VIRUS ATIPICO, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A820",
+    "Simbolo": "jero",
+    "Descripcion": "RABIA SELVATICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A821",
+    "Simbolo": "jero",
+    "Descripcion": "RABIA URBANA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A829",
+    "Simbolo": "jero",
+    "Descripcion": "RABIA, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A830",
+    "Simbolo": "jero",
+    "Descripcion": "ENCEFALITIS JAPONESA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A831",
+    "Simbolo": "jero",
+    "Descripcion": "ENCEFALITIS EQUINA DEL OESTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A832",
+    "Simbolo": "jero",
+    "Descripcion": "ENCEFALITIS EQUINA DEL ESTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A833",
+    "Simbolo": "jero",
+    "Descripcion": "ENCEFALITIS DE SAN LUIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A834",
+    "Simbolo": "jero",
+    "Descripcion": "ENCEFALITIS AUSTRALIANA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A835",
+    "Simbolo": "jero",
+    "Descripcion": "ENCEFALITIS DE CALIFORNIA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A836",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIRUS ROCIO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A838",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ENCEFALITIS VIRALES TRANSMITIDAS POR MOSQUITOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A839",
+    "Simbolo": "jero",
+    "Descripcion": "ENCEFALITIS VIRAL TRANSMITIDA POR MOSQUITOS, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A840",
+    "Simbolo": "jero",
+    "Descripcion": "ENCEFALITIS DEL LEJANO ORIENTE TRANSMITIDA POR GARRAPATAS [ENCEFALITIS PRIMAVEROESTIVAL RUSA]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A841",
+    "Simbolo": "jero",
+    "Descripcion": "ENCEFALITIS CENTROEUROPEA TRANSMITIDA POR GARRAPATAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A848",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ENCEFALITIS VIRALES TRANSMITIDAS POR GARRAPATAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A849",
+    "Simbolo": "jero",
+    "Descripcion": "ENCEFALITIS VIRAL TRANSMITIDA POR GARRAPATAS, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A850",
+    "Simbolo": "†",
+    "Descripcion": "ENCEFALITIS ENTEROVIRAL (G05.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A851",
+    "Simbolo": "†",
+    "Descripcion": "ENCEFALITIS POR ADENOVIRUS (G05.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A852",
+    "Simbolo": "jero",
+    "Descripcion": "ENCEFALITIS VIRAL TRANSMITIDA POR ARTROPODOS, SIN OTRA ESPECIFICACIÓN",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A858",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ENCEFALITIS VIRALES ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A86X",
+    "Simbolo": "jero",
+    "Descripcion": "ENCEFALITIS VIRAL, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A870",
+    "Simbolo": "†",
+    "Descripcion": "MENINGITIS ENTEROVIRAL (G02.0*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A871",
+    "Simbolo": "†",
+    "Descripcion": "MENINGITIS DEBIDA A ADENOVIRUS (G02.0*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A872",
+    "Simbolo": "jero",
+    "Descripcion": "CORIOMENINGITIS LINFOCITICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A878",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS MENINGITIS VIRALES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A879",
+    "Simbolo": "jero",
+    "Descripcion": "MENINGITIS VIRAL, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A880",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE EXANTEMATICA ENTEROVIRAL [EXANTEMA DE BOSTON]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A881",
+    "Simbolo": "jero",
+    "Descripcion": "VERTIGO EPIDEMICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A888",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES VIRALES ESPECIFICADAS DEL SISTEMA NERVIOSO CENTRAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A89X",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION VIRAL DEL SISTEMA NERVIOSO CENTRAL, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A90X",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE DEL DENGUE [DENGUE CLASICO]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A91X",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE DEL DENGUE HEMORRAGICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A920",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIRUS CHIKUNGUNYA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A921",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE DE O´NYONG-NYONG",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A922",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE EQUINA VENEZOLANA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A923",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE DEL OESTE DEL NILO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A924",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE DEL VALLE DEL RIFT",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A928",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FIEBRES VIRALES ESPECIFICADAS TRANSMITIDAS POR MOSQUITOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A929",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE VIRAL TRANSMITIDA POR MOSQUITO, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A930",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIRUS DE OROPOUCHE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A931",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE TRANSMITIDA POR FLEBOTOMOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A932",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE DE COLORADO TRANSMITIDA POR GARRAPATAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A938",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FIEBRES VIRALES ESPECIFICADAS TRANSMITIDAS POR ANTROPODOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A94X",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE VIRAL TRANSMITIDA POR ARTROPODOS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A950",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE AMARILLA SELVATICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A951",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE AMARILLA URBANA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A959",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE AMARILLA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A960",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE HEMORRAGICA DE JUNIN",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A961",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE HEMORRAGICA DE MACHUPO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A962",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE DE LASSA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A968",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FIEBRES HEMORRAGICAS POR ARENAVIRUS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A969",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE HEMORRAGICA POR ARENAVIRUS, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A980",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE HEMORRAGICA DE CRIMEA-CONGO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A981",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE HEMORRAGICA DE OMSK",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A982",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD DE LA SELVA DE KYASANUR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A983",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR EL VIRUS DE MARBURG",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A984",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR EL VIRUS DE EBOLA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A985",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRES HEMORRAGICAS CON SINDROME RENAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A988",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FIEBRES HEMORRAGICAS VIRALES ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "A99X",
+    "Simbolo": "jero",
+    "Descripcion": "FIEBRE VIRAL HEMORRAGICA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B000",
+    "Simbolo": "jero",
+    "Descripcion": "ECZEMA HERPETICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B001",
+    "Simbolo": "jero",
+    "Descripcion": "DERMATITIS VESICULAR HERPETICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B002",
+    "Simbolo": "jero",
+    "Descripcion": "GINGIVOESTOMATITIS Y FARINGOAMIGDALITIS HERPETICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B003",
+    "Simbolo": "†",
+    "Descripcion": "MENINGITIS HERPETICA (G02.0*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B004",
+    "Simbolo": "†",
+    "Descripcion": "ENCEFALITIS HERPETICA (G05.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B005",
+    "Simbolo": "†",
+    "Descripcion": "OCULOPATIA HERPETICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B007",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD HERPETICA DISEMINADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B008",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE INFECCIONES HERPETICAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B009",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A EL VIRUS DEL HERPES, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B010",
+    "Simbolo": "†",
+    "Descripcion": "MENINGITIS DEBIDA A LA VARICELA (G02.0*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B011",
+    "Simbolo": "†",
+    "Descripcion": "ENCEFALITIS DEBIDA A LA VARICELA (G05.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B012",
+    "Simbolo": "†",
+    "Descripcion": "NEUMONIA DEBIDA A LA VARICELA (J17.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B018",
+    "Simbolo": "jero",
+    "Descripcion": "VARICELA CON OTRAS COMPLICACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B019",
+    "Simbolo": "jero",
+    "Descripcion": "VARICELA SIN COMPLICACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B020",
+    "Simbolo": "†",
+    "Descripcion": "ENCEFALITIS DEBIDA A HERPES ZOSTER (G05.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B021",
+    "Simbolo": "†",
+    "Descripcion": "MENINGITIS DEBIDA A HERPES ZOSTER (G02.0*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B022",
+    "Simbolo": "†",
+    "Descripcion": "HERPES ZOSTER CON OTROS COMPROMISOS DEL SISTEMA NERVIOSO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B023",
+    "Simbolo": "†",
+    "Descripcion": "HERPES ZOSTER OCULAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B027",
+    "Simbolo": "jero",
+    "Descripcion": "HERPES ZOSTER DISEMINADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B028",
+    "Simbolo": "jero",
+    "Descripcion": "HERPES ZOSTER CON OTRAS COMPLICACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B029",
+    "Simbolo": "jero",
+    "Descripcion": "HERPES ZOSTER SIN COMPLICACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B03X",
+    "Simbolo": "jero",
+    "Descripcion": "VIRUELA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B04X",
+    "Simbolo": "jero",
+    "Descripcion": "VIRUELA DE LOS MONOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B050",
+    "Simbolo": "†",
+    "Descripcion": "SARAMPION COMPLICADO CON ENCEFALITIS (G05.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B051",
+    "Simbolo": "†",
+    "Descripcion": "SARAMPION COMPLICADO CON MENINGITIS (G02.0*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B052",
+    "Simbolo": "†",
+    "Descripcion": "SARAMPION COMPLICADO CON NEUMONIA (J17.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B053",
+    "Simbolo": "†",
+    "Descripcion": "SARAMPION COMPLICADO CON OTITIS MEDIA (H67.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B054",
+    "Simbolo": "jero",
+    "Descripcion": "SARAMPION CON COMPLICACIONES INTESTINALES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B058",
+    "Simbolo": "jero",
+    "Descripcion": "SARAMPION CON OTRAS COMPLICACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B059",
+    "Simbolo": "jero",
+    "Descripcion": "SARAMPION SIN COMPLICACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B060",
+    "Simbolo": "†",
+    "Descripcion": "RUBEOLA CON COMPLICACIONES NEUROLOGICAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B068",
+    "Simbolo": "jero",
+    "Descripcion": "RUBEOLA CON OTRAS COMPLICACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B069",
+    "Simbolo": "jero",
+    "Descripcion": "RUBEOLA SIN COMPLICACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B07X",
+    "Simbolo": "jero",
+    "Descripcion": "VERRUGAS VIRICAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B080",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES DEBIDAS A ORTOPOXVIRUS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B081",
+    "Simbolo": "jero",
+    "Descripcion": "MOLUSCO CONTAGIOSO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B082",
+    "Simbolo": "jero",
+    "Descripcion": "EXANTEMA SUBITO [SEXTA ENFERMEDAD]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B083",
+    "Simbolo": "jero",
+    "Descripcion": "ERITEMA INFECCIOSO [QUINTA ENFERMEDAD]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B084",
+    "Simbolo": "jero",
+    "Descripcion": "ESTOMATITIS VESICULAR ENTEROVIRAL CON EXANTEMA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B085",
+    "Simbolo": "jero",
+    "Descripcion": "FARINGITIS VESICULAR ENTEROVIRICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B088",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES VIRALES ESPECIFICADAS, CARACTERIZADAS POR LESIONES DE LA PIEL Y DE LAS MEMBRANAS MUCOSAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B09X",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION VIRAL NO ESPECIFICADA, CARACTERIZADA POR LESIONES DE LA PIEL Y DE LAS MEMBRANAS MUCOSAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B150",
+    "Simbolo": "jero",
+    "Descripcion": "HEPATITIS AGUDA TIPO A, SIN COMA HEPATICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B159",
+    "Simbolo": "jero",
+    "Descripcion": "HEPATITIS AGUDA TIPO A, CON COMA HEPATICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B160",
+    "Simbolo": "jero",
+    "Descripcion": "HEPATITIS AGUDA TIPO B, CON AGENTE DELTA (COINFECCION). CON COMA HEPATICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B161",
+    "Simbolo": "jero",
+    "Descripcion": "HEPATITIS AGUDA TIPO B, CON AGENTE DELTA (COINFECCION), SIN COMA HEPATICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B162",
+    "Simbolo": "jero",
+    "Descripcion": "HEPATITIS AGUDA TIPO B, SIN AGENTE DELTA, CON COMA HEPATICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B169",
+    "Simbolo": "jero",
+    "Descripcion": "HEPATITIS AGUDA TIPO B, SIN AGENTE DELTA Y SIN COMA HEPATICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B170",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION (SUPERINFECCION) AGUDA POR AGENTE DELTA EN EL PORTADOR DE HEPATITIS B",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B171",
+    "Simbolo": "jero",
+    "Descripcion": "HEPATITIS AGUDA TIPO C",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B172",
+    "Simbolo": "jero",
+    "Descripcion": "HEPATITIS AGUDA TIPO E",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B178",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS HEPATITIS VIRALES AGUDAS ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B180",
+    "Simbolo": "jero",
+    "Descripcion": "HEPATITIS VIRAL TIPO B CRONICA, CON AGENTE DELTA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B181",
+    "Simbolo": "jero",
+    "Descripcion": "HEPATITIS VIRAL TIPO B CRONICA, SIN AGENTE DELTA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B182",
+    "Simbolo": "jero",
+    "Descripcion": "HEPATITIS VIRAL TIPO C CRONICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B188",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS HEPATITIS VIRALES CRONICAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B189",
+    "Simbolo": "jero",
+    "Descripcion": "HEPATITIS VIRAL CRONICA, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B190",
+    "Simbolo": "jero",
+    "Descripcion": "HEPATITIS VIRAL NO ESPECIFICADA CON COMA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B199",
+    "Simbolo": "jero",
+    "Descripcion": "HEPATITIS VIRAL NO ESPECIFICADA SIN COMA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B200",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR EL VIH, RESULTANTE EN INFECCION POR MICOBACTERIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B201",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR EL VIH, RESULTANTE EN OTRAS INFECCIONES BACTERIANAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B202",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN ENFERMEDAD POR CITOMEGALOVIRUS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B203",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN OTRAS INFECCIONES VIRALES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B204",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN CANDIDIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B205",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN OTRAS MICOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B206",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN NEUMONIA POR PNEUMOCYSTIS CARINII",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B207",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN INFECCIONES MULTIPLES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B208",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN OTRAS ENFERMEDADES INFECCIOSAS O PARASITARIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B209",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN ENFERMEDAD INFECCIOSA O PARASITARIA NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B210",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN SARCOMA DE KAPOSI",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B211",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN LINFOMA DE BURKITT",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B212",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN OTROS TIPOS DE LINFOMA NO HODGKIN",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B213",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN OTROS TUMORES MALIGNOS DEL TEJIDO LINFOIDE, HEMATOPOYETICO Y TEJIDOS RELACIONADOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B217",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN TUMORES MALIGNOS MULTIPLES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B218",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN OTROS TUMORES MALIGNOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B219",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN TUMORES MALIGNOS NO ESPECIFICADOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B220",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN ENCEFALOPATIA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B221",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN NEUMONITIS LINFOIDE INTERSTICIAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B222",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN SINDROME CAQUECTICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B227",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN ENFERMEDADES MULTIPLES CLASIFICADAS EN OTRA PARTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B230",
+    "Simbolo": "jero",
+    "Descripcion": "SINDROME DE INFECCION AGUDA DEBIDA A VIH",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B231",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN LINFADENOPATIA GENERALIZADA (PERSISTENTE)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B232",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN ANORMALIDADES INMUNOLOGICAS Y HEMATOLOGICAS, NO CLASIFICADAS EN OTRA PARTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B238",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIH, RESULTANTE EN OTRAS AFECCIONES ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B24X",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIRUS DE LA INMUNODEFICIENCIA HUMANA (VIH), SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B250",
+    "Simbolo": "†",
+    "Descripcion": "NEUMONITIS DEBIDA A VIRUS CITOMEGALICO (J17.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B251",
+    "Simbolo": "†",
+    "Descripcion": "HEPATITIS DEBIDA A VIRUS CITOMEGALICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B252",
+    "Simbolo": "†",
+    "Descripcion": "PANCREATITIS DEBIDA A VIRUS CITOMEGALICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B258",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ENFERMEDADES DEBIDAS A VIRUS CITOMEGALICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B259",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD POR VIRUS CITOMEGALICO, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B260",
+    "Simbolo": "†",
+    "Descripcion": "ORQUITIS POR PAROTIDITIS (N51.1*)",
+    "Sexo": "H",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "B261",
+    "Simbolo": "†",
+    "Descripcion": "MENINGITIS POR PAROTIDITIS (G02.0*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B262",
+    "Simbolo": "†",
+    "Descripcion": "ENCEFALITIS POR PAROTIDITIS (G05.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B263",
+    "Simbolo": "†",
+    "Descripcion": "PANCREATITIS POR PAROTIDITIS (K87.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B268",
+    "Simbolo": "jero",
+    "Descripcion": "PAROTIDITIS INFECCIOSA CON OTRAS COMPLICACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B269",
+    "Simbolo": "jero",
+    "Descripcion": "PAROTIDITIS, SIN COMPLICACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B270",
+    "Simbolo": "jero",
+    "Descripcion": "MONONUCLEOSIS DEBIDA A HERPES VIRUS GAMMA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B271",
+    "Simbolo": "jero",
+    "Descripcion": "MONONUCLEOSIS POR CITOMEGALOVIRUS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B278",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS MONONUCLEOSIS INFECCIOSAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B279",
+    "Simbolo": "jero",
+    "Descripcion": "MONONUCLEOSIS INFECCIOSA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B300",
+    "Simbolo": "†",
+    "Descripcion": "QUERATOCONJUNTIVITIS DEBIDA A ADENOVIRUS (H19.2*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B301",
+    "Simbolo": "†",
+    "Descripcion": "CONJUNTIVITIS DEBIDA A ADENOVIRUS (H13.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B302",
+    "Simbolo": "jero",
+    "Descripcion": "FARINGOCONJUNTIVITIS VIRAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B303",
+    "Simbolo": "†",
+    "Descripcion": "CONJUNTIVITIS EPIDEMICA AGUDA HEMORRAGICA (ENTEROVIRICA) (H13.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B308",
+    "Simbolo": "†",
+    "Descripcion": "OTRAS CONJUNTIVITIS VIRALES (H13.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B309",
+    "Simbolo": "jero",
+    "Descripcion": "CONJUNTIVITIS VIRAL, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B330",
+    "Simbolo": "jero",
+    "Descripcion": "MIALGIA EPIDEMICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B331",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD DEL RIO ROSS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B332",
+    "Simbolo": "jero",
+    "Descripcion": "CARDITIS VIRAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B333",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCIONES DEBIDAS A RETROVIRUS, NO CLASIFICADAS EN OTRA PARTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B338",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ENFERMEDADES VIRALES ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B340",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A ADENOVIRUS, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B341",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A ENTEROVIRUS, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B342",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A CORONAVIRUS, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B343",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A PARVOVIRUS, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B344",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A PAPOVAVIRUS, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B348",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES VIRALES DE SITIO NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B349",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION VIRAL, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B350",
+    "Simbolo": "jero",
+    "Descripcion": "TIÑA DE LA BARBA Y DEL CUERO CABELLUDO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B351",
+    "Simbolo": "jero",
+    "Descripcion": "TIÑA DE LAS UÑAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B352",
+    "Simbolo": "jero",
+    "Descripcion": "TIÑA DE LA MANO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B353",
+    "Simbolo": "jero",
+    "Descripcion": "TIÑA DEL PIE [TINEA PEDIS]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B354",
+    "Simbolo": "jero",
+    "Descripcion": "TIÑA DEL CUERPO [TINEA CORPORIS]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B355",
+    "Simbolo": "jero",
+    "Descripcion": "TIÑA IMBRICADA [TINEA IMBRICATA]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B356",
+    "Simbolo": "jero",
+    "Descripcion": "TIÑA INGUINAL [TINEA CRURIS]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B358",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS DERMATOFITOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B359",
+    "Simbolo": "jero",
+    "Descripcion": "DERMATOFITOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B360",
+    "Simbolo": "jero",
+    "Descripcion": "PITIRIASIS VERSICOLOR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B361",
+    "Simbolo": "jero",
+    "Descripcion": "TIÑA NEGRA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B362",
+    "Simbolo": "jero",
+    "Descripcion": "PIEDRA BLANCA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B363",
+    "Simbolo": "jero",
+    "Descripcion": "PIEDRA NEGRA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B368",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS MICOSIS SUPERFICIALES ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B369",
+    "Simbolo": "jero",
+    "Descripcion": "MICOSIS SUPERFICIAL, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B370",
+    "Simbolo": "jero",
+    "Descripcion": "ESTOMATITIS CANDIDIASICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B371",
+    "Simbolo": "jero",
+    "Descripcion": "CANDIDIASIS PULMONAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B372",
+    "Simbolo": "jero",
+    "Descripcion": "CANDIDIASIS DE LA PIEL Y DE LAS UÑAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B373",
+    "Simbolo": "†",
+    "Descripcion": "CANDIDIASIS DE LA VULVA Y DE LA VAGINA (N77.1*)",
+    "Sexo": "M",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B374",
+    "Simbolo": "†",
+    "Descripcion": "CANDIDIASIS DE OTRAS LOCALIZACIONES UROGENITALES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B375",
+    "Simbolo": "†",
+    "Descripcion": "MENINGITIS DEBIDA A CANDIDA (G02.1*)",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "B376",
+    "Simbolo": "†",
+    "Descripcion": "ENDOCARDITIS DEBIDA A CANDIDA (I39.8*)",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "B377",
+    "Simbolo": "jero",
+    "Descripcion": "SEPTICEMIA DEBIDA A CANDIDA",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "B378",
+    "Simbolo": "jero",
+    "Descripcion": "CANDIDIASIS DE OTROS SITIOS",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "B379",
+    "Simbolo": "jero",
+    "Descripcion": "CANDIDIASIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "B380",
+    "Simbolo": "jero",
+    "Descripcion": "COCCIDIOIDOMICOSIS PULMONAR AGUDA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B381",
+    "Simbolo": "jero",
+    "Descripcion": "COCCIDIOIDOMICOSIS PULMONAR CRONICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B382",
+    "Simbolo": "jero",
+    "Descripcion": "COCCIDIOIDOMICOSIS PULMONAR, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B383",
+    "Simbolo": "jero",
+    "Descripcion": "COCCIDIOIDOMICOSIS CUTANEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B384",
+    "Simbolo": "†",
+    "Descripcion": "MENINGITIS DEBIDA A COCCIDIOIDOMICOSIS (G02.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B387",
+    "Simbolo": "jero",
+    "Descripcion": "COCCIDIOIDOMICOSIS DISEMINADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B388",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE COCCIDIOIDOMICOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B389",
+    "Simbolo": "jero",
+    "Descripcion": "COCCIDIOIDOMICOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B390",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION PULMONAR AGUDA DEBIDA A HISTOPLASMA CAPSULATUM",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B391",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION PULMONAR CRONICA DEBIDA A HISTOPLASMA CAPSULATUM",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B392",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION PULMONAR DEBIDA A HISTOPLASMA CAPSULATUM, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B393",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DISEMINADA DEBIDA A HISTOPLASMA CAPSULATUM",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B394",
+    "Simbolo": "jero",
+    "Descripcion": "HISTOPLASMOSIS DEBIDA A HISTOPLASMA CAPSULATUM, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B395",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A HISTOPLASMA DUBOISII",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B399",
+    "Simbolo": "jero",
+    "Descripcion": "HISTOPLASMOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B400",
+    "Simbolo": "jero",
+    "Descripcion": "BLASTOMICOSIS PULMONAR AGUDA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B401",
+    "Simbolo": "jero",
+    "Descripcion": "BLASTOMICOSIS PULMONAR CRONICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B402",
+    "Simbolo": "jero",
+    "Descripcion": "BLASTOMICOSIS PULMONAR, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B403",
+    "Simbolo": "jero",
+    "Descripcion": "BLASTOMICOSIS CUTANEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B407",
+    "Simbolo": "jero",
+    "Descripcion": "BLASTOMICOSIS DISEMINADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B408",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE BLASTOMICOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B409",
+    "Simbolo": "jero",
+    "Descripcion": "BLASTOMICOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B410",
+    "Simbolo": "jero",
+    "Descripcion": "PARACOCCIDIOIDOMICOSIS PULMONAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B417",
+    "Simbolo": "jero",
+    "Descripcion": "PARACOCCIDIOIDOMICOSIS DISEMINADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B418",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS PARACOCCIDIOIDOMICOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B419",
+    "Simbolo": "jero",
+    "Descripcion": "PARACOCCIDIOIDOMICOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B420",
+    "Simbolo": "†",
+    "Descripcion": "ESPOROTRICOSIS PULMONAR (J99.8*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B421",
+    "Simbolo": "jero",
+    "Descripcion": "ESPOROTRICOSIS LINFOCUTANEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B427",
+    "Simbolo": "jero",
+    "Descripcion": "ESPOROTRICOSIS DISEMINADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B428",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE ESPOROTRICOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B429",
+    "Simbolo": "jero",
+    "Descripcion": "ESPOROTRICOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B430",
+    "Simbolo": "jero",
+    "Descripcion": "CROMOMICOSIS CUTANEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B431",
+    "Simbolo": "jero",
+    "Descripcion": "ABSCESO CEREBRAL FEOMICOTICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B432",
+    "Simbolo": "jero",
+    "Descripcion": "ABSCESO Y QUISTE SUBCUTANEO FEOMICOTICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B438",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE CROMOMICOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B439",
+    "Simbolo": "jero",
+    "Descripcion": "CROMOMICOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B440",
+    "Simbolo": "jero",
+    "Descripcion": "ASPERGILOSIS PULMONAR INVASIVA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B441",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ASPERGILOSIS PULMONARES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B442",
+    "Simbolo": "jero",
+    "Descripcion": "ASPERGILOSIS AMIGDALINA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B447",
+    "Simbolo": "jero",
+    "Descripcion": "ASPERGILOSIS DISEMINADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B448",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE ASPERGILOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B449",
+    "Simbolo": "jero",
+    "Descripcion": "ASPERGILOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B450",
+    "Simbolo": "jero",
+    "Descripcion": "CRIPTOCOCOSIS PULMONAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B451",
+    "Simbolo": "jero",
+    "Descripcion": "CRIPTOCOCOSIS CEREBRAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B452",
+    "Simbolo": "jero",
+    "Descripcion": "CRIPTOCOCOSIS CUTANEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B453",
+    "Simbolo": "jero",
+    "Descripcion": "CRIPTOCOCOSIS OSEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B457",
+    "Simbolo": "jero",
+    "Descripcion": "CRIPTOCOCOSIS DISEMINADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B458",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FORMAS DE CRIPTOCOCOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B459",
+    "Simbolo": "jero",
+    "Descripcion": "CRIPTOCOCOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B460",
+    "Simbolo": "jero",
+    "Descripcion": "MUCORMICOSIS PULMONAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B461",
+    "Simbolo": "jero",
+    "Descripcion": "MUCORMICOSIS RINOCEREBRAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B462",
+    "Simbolo": "jero",
+    "Descripcion": "MUCORMICOSIS GASTROINTESTINAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B463",
+    "Simbolo": "jero",
+    "Descripcion": "MUCORMICOSIS CUTANEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B464",
+    "Simbolo": "jero",
+    "Descripcion": "MUCORMICOSIS DISEMINADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B465",
+    "Simbolo": "jero",
+    "Descripcion": "MUCORMICOSIS, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B468",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS CIGOMICOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B469",
+    "Simbolo": "jero",
+    "Descripcion": "CIGOMICOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B470",
+    "Simbolo": "jero",
+    "Descripcion": "EUMICETOMA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B471",
+    "Simbolo": "jero",
+    "Descripcion": "ACTINOMICETOMA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B479",
+    "Simbolo": "jero",
+    "Descripcion": "MICETOMA, NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B480",
+    "Simbolo": "jero",
+    "Descripcion": "LOBOMICOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B481",
+    "Simbolo": "jero",
+    "Descripcion": "RINOSPORIDIOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B482",
+    "Simbolo": "jero",
+    "Descripcion": "ALESQUERIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B483",
+    "Simbolo": "jero",
+    "Descripcion": "GEOTRICOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B484",
+    "Simbolo": "jero",
+    "Descripcion": "PENICILOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B487",
+    "Simbolo": "jero",
+    "Descripcion": "MICOSIS OPORTUNISTAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B488",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS MICOSIS ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B49X",
+    "Simbolo": "jero",
+    "Descripcion": "MICOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B500",
+    "Simbolo": "jero",
+    "Descripcion": "PALUDISMO DEBIDO A PLASMODIUM FALCIPARUM CON COMPLICACIONES CEREBRALES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B508",
+    "Simbolo": "jero",
+    "Descripcion": "OTRO PALUDISMO GRAVE Y COMPLICADO DEBIDO A PLASMODIUM FALCIPARUM",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B509",
+    "Simbolo": "jero",
+    "Descripcion": "PALUDISMO DEBIDO A PLASMODIUM FALCIPARUM, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B510",
+    "Simbolo": "jero",
+    "Descripcion": "PALUDISMO DEBIDO A PLASMODIUM VIVAX CON RUPTURA ESPLENICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B518",
+    "Simbolo": "jero",
+    "Descripcion": "PALUDISMO DEBIDO A PLASMODIUM VIVAX CON OTRAS COMPLICACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B519",
+    "Simbolo": "jero",
+    "Descripcion": "PALUDISMO DEBIDO A PLASMODIUM VIVAX, SIN COMPLICACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B520",
+    "Simbolo": "jero",
+    "Descripcion": "PALUDISMO DEBIDO A PLASMODIUM MALARIAE CON NEFROPATIA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B528",
+    "Simbolo": "jero",
+    "Descripcion": "PALUDISMO DEBIDO A PLASMODIUM MALARIAE CON OTRAS COMPLICACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B529",
+    "Simbolo": "jero",
+    "Descripcion": "PALUDISMO DEBIDO A PLASMODIUM MALARIAE, SIN COMPLICACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B530",
+    "Simbolo": "jero",
+    "Descripcion": "PALUDISMO DEBIDO A PLASMODIUM AVALE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B531",
+    "Simbolo": "jero",
+    "Descripcion": "PALUDISMO DEBIDO A PLASMODIOS DE LOS SIMIOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B538",
+    "Simbolo": "jero",
+    "Descripcion": "OTRO PALUDISMO CONFIRMADO PARASITOLOGICAMENTE, NO CLASIFICADO EN OTRA PARTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B54X",
+    "Simbolo": "jero",
+    "Descripcion": "PALUDISMO [MALARIA] NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B550",
+    "Simbolo": "jero",
+    "Descripcion": "LEIISHMANIASIS VISCERAL",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "B551",
+    "Simbolo": "jero",
+    "Descripcion": "LEISHMANIASIS CUTANEA",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "B552",
+    "Simbolo": "jero",
+    "Descripcion": "LEISHMANIASIS MUCOCUTANEA",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "B559",
+    "Simbolo": "jero",
+    "Descripcion": "LEISHMANIASIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "B560",
+    "Simbolo": "jero",
+    "Descripcion": "TRIPANOSOMIASIS GAMBIENSE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B561",
+    "Simbolo": "jero",
+    "Descripcion": "TRIPANOSOMIASIS RHODESIENSE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B569",
+    "Simbolo": "jero",
+    "Descripcion": "TRIPANOSOMIASIS AFRICANA, SIN OTRA ESPECIFICACIÓN",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B570",
+    "Simbolo": "†",
+    "Descripcion": "ENFERMEDAD DE CHAGAS AGUDA QUE AFECTA AL CORAZON (141.2*, 198.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B571",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD DE CHAGAS AGUDA QUE NO AFECTA AL CORAZON",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B572",
+    "Simbolo": "†",
+    "Descripcion": "ENFERMEDAD DE CHAGAS (CRONICA) QUE AFECTA AL CORAZON (141.2*,198.1*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B573",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD DE CHAGAS (CRONICA) QUE AFECTA AL SISTEMA DIGESTIVO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B574",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD DE CHAGAS (CRONICA) QUE AFECTA AL SISTEMA NERVIOSO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B575",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD DE CHAGAS (CRONICA) QUE AFECTA OTROS ORGANOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B580",
+    "Simbolo": "†",
+    "Descripcion": "OCULOPATIA DEBIDA A TOXOPLASMA",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "B581",
+    "Simbolo": "†",
+    "Descripcion": "HEPATITIS DEBIDA A TOXOPLASMA (K77.0*)",
+    "Sexo": "A",
+    "Observaciones": "Ver RN"
+  },
+  {
+    "Codigo": "B582",
+    "Simbolo": "†",
+    "Descripcion": "MENINGOENCEFALITIS DEBIDA A TOXOPLASMA (G05.2*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B583",
+    "Simbolo": "†",
+    "Descripcion": "TOXOPLASMOSIS PULMONAR (J17.3*)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B588",
+    "Simbolo": "jero",
+    "Descripcion": "TOXOPLASMOSIS CON OTRO ORGANO AFECTADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B589",
+    "Simbolo": "jero",
+    "Descripcion": "TOXOPLASMOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B59X",
+    "Simbolo": "jero",
+    "Descripcion": "NEUMOCISTOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B600",
+    "Simbolo": "jero",
+    "Descripcion": "BABESIOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B601",
+    "Simbolo": "jero",
+    "Descripcion": "ACANTAMEBIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B602",
+    "Simbolo": "jero",
+    "Descripcion": "NAEGLERIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B608",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ENFERMEDADES ESPECIFICADAS DEBIDAS A PROTOZARIOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B64X",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD DEBIDA A PROTOZOARIOS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B650",
+    "Simbolo": "jero",
+    "Descripcion": "ESQUISTOSOMIASIS DEBIDA A SCHISTOSOMA HAEMATOBIUM [ESQUISTOSOMIASIS URINARIA]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B651",
+    "Simbolo": "jero",
+    "Descripcion": "ESQUISTOSOMIASIS DEBIDA A SCHISTOSOMA MANSONI [ESQUISTOSOMIASIS INTESTINAL]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B652",
+    "Simbolo": "jero",
+    "Descripcion": "ESQUISTOSOMIASIS DEBIDA A SCHISTOSOMA JAPONICUM",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B653",
+    "Simbolo": "jero",
+    "Descripcion": "DERMATITIS POR CERCARIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B658",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ESQUISTOSOMIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B659",
+    "Simbolo": "jero",
+    "Descripcion": "ESQUISTOSOMIASIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B660",
+    "Simbolo": "jero",
+    "Descripcion": "OPISTORQUIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B661",
+    "Simbolo": "jero",
+    "Descripcion": "CLONORQUIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B662",
+    "Simbolo": "jero",
+    "Descripcion": "DICROCOELIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B663",
+    "Simbolo": "jero",
+    "Descripcion": "FASCIOLIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B664",
+    "Simbolo": "jero",
+    "Descripcion": "PARAGONIMIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B665",
+    "Simbolo": "jero",
+    "Descripcion": "FASCIOLOPSIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B668",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES ESPECIFICADAS DEBIDAS A TREMATODOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B669",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A TREMATODOS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B670",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEL HIGADO DEBIDA A ECHINOCOCCUS GRANULOSUS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B671",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEL PULMON DEBIDA A ECHINOCOCCUS GRANULOSUS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B672",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DE HUESO DEBIDA A ECHINOCOCCUS GRANULOSUS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B673",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DE OTRO ORGANO Y DE SITIOS MULTIPLES DEBIDA A ECHINOCOCCUS GRANULOSUS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B674",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A ECHINOCOCCUS GRANULOSUS, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B675",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEL HIGADO DEBIDA A ECHINOCOCCUS MULTILOCULARIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B676",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DE OTRO ORGANO Y DE SITIOS MULTIPLES DEBIDA A ECHINOCOCCUS MULTILOCULARIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B677",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A ECHINOCOCCUS MULTILOCULARIS, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B678",
+    "Simbolo": "jero",
+    "Descripcion": "EQUINOCOCOSIS DEL HIGADO, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B679",
+    "Simbolo": "jero",
+    "Descripcion": "EQUINOCOCOSIS, OTRA Y LA NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B680",
+    "Simbolo": "jero",
+    "Descripcion": "TENIASIS DEBIDA A TAENIA SOLIUM",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B681",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A TAENIA SAGINATA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B689",
+    "Simbolo": "jero",
+    "Descripcion": "TENIASIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B690",
+    "Simbolo": "jero",
+    "Descripcion": "CISTICERCOSIS DEL SISTEMA NERVIOSO CENTRAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B691",
+    "Simbolo": "jero",
+    "Descripcion": "CISTICERCOSIS DEL OJO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B698",
+    "Simbolo": "jero",
+    "Descripcion": "CISTICERCOSIS DE OTROS SITIOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B699",
+    "Simbolo": "jero",
+    "Descripcion": "CISTICERCOSIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B700",
+    "Simbolo": "jero",
+    "Descripcion": "DIFILOBOTRIASIS INTESTINAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B701",
+    "Simbolo": "jero",
+    "Descripcion": "ESPARGANOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B710",
+    "Simbolo": "jero",
+    "Descripcion": "HIMENOLEPIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B711",
+    "Simbolo": "jero",
+    "Descripcion": "DIPILIDIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B718",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFECCIONES DEBIDAS A CESTODOS ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B719",
+    "Simbolo": "jero",
+    "Descripcion": "INFECCION DEBIDA A CESTODOS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B72X",
+    "Simbolo": "jero",
+    "Descripcion": "DRACONTIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B73X",
+    "Simbolo": "jero",
+    "Descripcion": "ONCOCERCOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B740",
+    "Simbolo": "jero",
+    "Descripcion": "FILARIASIS DEBIDA A WUCHERERIA BANCROFTI",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B741",
+    "Simbolo": "jero",
+    "Descripcion": "FILARIASIS DEBIDA A BRUGIA MALAYI",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B742",
+    "Simbolo": "jero",
+    "Descripcion": "FILARIASIS DEBIDA A BRUGIA TIMORI",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B743",
+    "Simbolo": "jero",
+    "Descripcion": "LOAIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B744",
+    "Simbolo": "jero",
+    "Descripcion": "MANSONELIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B748",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS FILARIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B749",
+    "Simbolo": "jero",
+    "Descripcion": "FILARIASIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B75X",
+    "Simbolo": "jero",
+    "Descripcion": "TRIQUINOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B760",
+    "Simbolo": "jero",
+    "Descripcion": "ANQUILOSTOMIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B761",
+    "Simbolo": "jero",
+    "Descripcion": "NECATORIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B768",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ENFERMEDADES DEBIDAS A ANQUILOSTOMAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B769",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD DEBIDA A ANQUILOSTOMAS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B770",
+    "Simbolo": "jero",
+    "Descripcion": "ASCARIASIS CON COMPLICACIONES INTESTINALES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B778",
+    "Simbolo": "jero",
+    "Descripcion": "ASCARIASIS CON OTRAS COMPLICACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B779",
+    "Simbolo": "jero",
+    "Descripcion": "ASCARIASIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B780",
+    "Simbolo": "jero",
+    "Descripcion": "ESTRONGILOIDIASIS INTESTINAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B781",
+    "Simbolo": "jero",
+    "Descripcion": "ESTRONGILOIDIASIS CUTANEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B787",
+    "Simbolo": "jero",
+    "Descripcion": "ESTRONGILOIDIASIS DISEMINADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B789",
+    "Simbolo": "jero",
+    "Descripcion": "ESTRONGILOIDIASIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B79X",
+    "Simbolo": "jero",
+    "Descripcion": "TRICURIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B80X",
+    "Simbolo": "jero",
+    "Descripcion": "ENTEROBIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B810",
+    "Simbolo": "jero",
+    "Descripcion": "ANISAQUIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B811",
+    "Simbolo": "jero",
+    "Descripcion": "CAPILARIASIS INTESTINAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B812",
+    "Simbolo": "jero",
+    "Descripcion": "TRICOESTRONGILIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B813",
+    "Simbolo": "jero",
+    "Descripcion": "ANGIOESTRONGILIASIS INTESTINAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B814",
+    "Simbolo": "jero",
+    "Descripcion": "HELMINTIASIS INTESTINAL MIXTA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B818",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS HELMINTIASIS INTESTINALES ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B820",
+    "Simbolo": "jero",
+    "Descripcion": "HELMINTIASIS INTESTINAL, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B829",
+    "Simbolo": "jero",
+    "Descripcion": "PARASITOSIS INTESTINAL, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B830",
+    "Simbolo": "jero",
+    "Descripcion": "LARVA MIGRANS VISCERAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B831",
+    "Simbolo": "jero",
+    "Descripcion": "GNATOSTOMIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B832",
+    "Simbolo": "jero",
+    "Descripcion": "ANGIOESTRONGILIASIS DEBIDA A PARASTRONGYLUS CANTONENSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B833",
+    "Simbolo": "jero",
+    "Descripcion": "SINGAMIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B834",
+    "Simbolo": "jero",
+    "Descripcion": "HIRUDINIASIS INTERNA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B838",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS HELMINTIASIS ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B839",
+    "Simbolo": "jero",
+    "Descripcion": "HELMINTIASIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B850",
+    "Simbolo": "jero",
+    "Descripcion": "PEDICULOSIS DEBIDA A PEDICULUS HUMANUS CAPITIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B851",
+    "Simbolo": "jero",
+    "Descripcion": "PEDICULOSIS DEBIDA A PEDICULUS HUMANUS CORPORIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B852",
+    "Simbolo": "jero",
+    "Descripcion": "PEDICULOSIS, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B853",
+    "Simbolo": "jero",
+    "Descripcion": "PHTHIRIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B854",
+    "Simbolo": "jero",
+    "Descripcion": "PEDICULOSIS Y PHTHIRIASIS MIXTAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B86X",
+    "Simbolo": "jero",
+    "Descripcion": "ESCABIOSIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B870",
+    "Simbolo": "jero",
+    "Descripcion": "MIASIS CUTANEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B871",
+    "Simbolo": "jero",
+    "Descripcion": "MIASIS EN HERIDAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B872",
+    "Simbolo": "jero",
+    "Descripcion": "MIASIS OCULAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B873",
+    "Simbolo": "jero",
+    "Descripcion": "MIASIS NASOFARINGEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B874",
+    "Simbolo": "jero",
+    "Descripcion": "MIASIS AURAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B878",
+    "Simbolo": "jero",
+    "Descripcion": "MIASIS DE OTROS SITIOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B879",
+    "Simbolo": "jero",
+    "Descripcion": "MIASIS, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B880",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ACARIASIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B881",
+    "Simbolo": "jero",
+    "Descripcion": "TUNGIASIS [INFECCION DEBIDA A PULGA DE ARENA]",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B882",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFESTACIONES DEBIDAS A ARTROPODOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B883",
+    "Simbolo": "jero",
+    "Descripcion": "HIRUDINIASIS EXTERNA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B888",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS INFESTACIONES ESPECIFICAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B889",
+    "Simbolo": "jero",
+    "Descripcion": "INFESTACION, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B89X",
+    "Simbolo": "jero",
+    "Descripcion": "ENFERMEDAD PARASITARIA, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B900",
+    "Simbolo": "jero",
+    "Descripcion": "SECUELAS DE TUBERCULOSIS DEL SISTEMA NERVIOSO CENTRAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B901",
+    "Simbolo": "jero",
+    "Descripcion": "SECUELAS DE TUBERCULOSIS GENITOURINARIA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B902",
+    "Simbolo": "jero",
+    "Descripcion": "SECUELAS DE TUBERCULOSIS DE HUESOS Y ARTICULACIONES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B908",
+    "Simbolo": "jero",
+    "Descripcion": "SECUELAS DE TUBERCULOSIS DE OTROS ORGANOS ESPECIFICADOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B909",
+    "Simbolo": "jero",
+    "Descripcion": "SECUELAS DE TUBERCULOSIS RESPIRATORIA Y DE TUBERCULOSIS NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B91X",
+    "Simbolo": "jero",
+    "Descripcion": "SECUELAS DE POLIOMIELITIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B92X",
+    "Simbolo": "jero",
+    "Descripcion": "SECUELAS DE LEPRA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B940",
+    "Simbolo": "jero",
+    "Descripcion": "SECUELAS DE TRACOMA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B941",
+    "Simbolo": "jero",
+    "Descripcion": "SECUELAS DE ENCEFALITIS VIRAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B942",
+    "Simbolo": "jero",
+    "Descripcion": "SECUELAS DE HEPATITIS VIRAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B948",
+    "Simbolo": "jero",
+    "Descripcion": "SECUELAS DE OTRAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B949",
+    "Simbolo": "jero",
+    "Descripcion": "SECUELAS DE ENFERMEDADES INFECCIOSAS Y PARASITARIAS NO ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B950",
+    "Simbolo": "jero",
+    "Descripcion": "ESTREPTOCOCO, GRUPO A, COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B951",
+    "Simbolo": "jero",
+    "Descripcion": "ESTREPTOCOCO, GRUPO B, COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B952",
+    "Simbolo": "jero",
+    "Descripcion": "ESTREPTOCOCO, GRUPO D, COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B953",
+    "Simbolo": "jero",
+    "Descripcion": "STREPTOCOCCUS PNEUMONIAE COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B954",
+    "Simbolo": "jero",
+    "Descripcion": "OTROS STREPTOCOCOS COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B955",
+    "Simbolo": "jero",
+    "Descripcion": "ESTREPTOCOCO NO ESPECIFICADO COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B956",
+    "Simbolo": "jero",
+    "Descripcion": "STAPHYLOCOCCUS AUREUS COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B957",
+    "Simbolo": "jero",
+    "Descripcion": "OTROS ESTAFILOCOCOS COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B958",
+    "Simbolo": "jero",
+    "Descripcion": "ESTAFILOCOCO NO ESPECIFICADO, COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B960",
+    "Simbolo": "jero",
+    "Descripcion": "MYCOPLASMA PNEUMONIAE [M. PNEUMONIAE] COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B961",
+    "Simbolo": "jero",
+    "Descripcion": "KLEBSIELLA PNEUMONIAE [K. PNEUMONIAE] COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B962",
+    "Simbolo": "jero",
+    "Descripcion": "ESCHERICHIA COLI [E. COLI] COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B963",
+    "Simbolo": "jero",
+    "Descripcion": "HAEMOPHILUS INFLUENZAE [H. INFLUENZAE] COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B964",
+    "Simbolo": "jero",
+    "Descripcion": "PROTEUS (MIRABILIS) (MORGANII) COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B965",
+    "Simbolo": "jero",
+    "Descripcion": "PSEUDOMONAS (AERUGINOSA) (MALLEI) (PSEUDOMALLEI) COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B966",
+    "Simbolo": "jero",
+    "Descripcion": "BACILLUS FRAGILIS [B. FRAGILIS] COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B967",
+    "Simbolo": "jero",
+    "Descripcion": "CLOSTRIDIUM PERFRINGENS [C. PERFRINGENS] COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B968",
+    "Simbolo": "jero",
+    "Descripcion": "OTROS AGENTES BACTERIANOS ESPECIFICADOS COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B970",
+    "Simbolo": "jero",
+    "Descripcion": "ADENOVIRUS COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B971",
+    "Simbolo": "jero",
+    "Descripcion": "ENTEROVIRUS COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B972",
+    "Simbolo": "jero",
+    "Descripcion": "CORONAVIRUS COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B973",
+    "Simbolo": "jero",
+    "Descripcion": "RETROVIRUS COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B974",
+    "Simbolo": "jero",
+    "Descripcion": "VIRUS SINCICIAL RESPIRATORIO COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B975",
+    "Simbolo": "jero",
+    "Descripcion": "REOVIRUS COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B976",
+    "Simbolo": "jero",
+    "Descripcion": "PARVOVIRUS COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B977",
+    "Simbolo": "jero",
+    "Descripcion": "PAPILOMAVIRUS COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B978",
+    "Simbolo": "jero",
+    "Descripcion": "OTROS AGENTES VIRALES COMO CAUSA DE ENFERMEDADES CLASIFICADAS EN OTROS CAPITULOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "B99X",
+    "Simbolo": "jero",
+    "Descripcion": "OTRAS ENFERMEDADES INFECCIOSAS Y LAS NO ESPECIFICADAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C000",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL LABIO SUPERIOR, CARA EXTERNA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C001",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL LABIO INFERIOR, CARA EXTERNA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C002",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL LABIO, CARA EXTERNA, SIN OTRA ESPECIFICACIÓN",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C003",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL LABIO SUPERIOR, CARA INTERNA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C004",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL LABIO INFERIOR, CARA INTERNA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C005",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL LABIO, CARA INTERNA, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C006",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA COMISURA LABIAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C008",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DEL LABIO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C009",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL LABIO, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C01X",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA BASE DE LA LENGUA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C020",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA CARA DORSAL DE LA LENGUA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C021",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL BORDE DE LA LENGUA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C022",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA CARA VENTRAL DE LA LENGUA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C023",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LOS DOS TERCIOS ANTERIORES DE LA LENGUA, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C024",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA AMIGDALA LINGUAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C028",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DE LA LENGUA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C029",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA LENGUA, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C030",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA ENCIA SUPERIOR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C031",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA ENCIA INFERIOR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C039",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA ENCIA, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C040",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PARTE ANTERIOR DEL PISO DE LA BOCA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C041",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PARTE LATERAL DEL PISO DE LA BOCA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C048",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DEL PISO DE LA BOCA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C049",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL PISO DE LA BOCA, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C050",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL PALADAR DURO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C051",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL PALADAR BLANDO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C052",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA UVULA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C058",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DEL PALADAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C059",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL PALADAR, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C060",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA MUCOSA DE LA MEJILLA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C061",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL VESTIBULO DE LA BOCA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C062",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL AREA RETROMOLAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C068",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DE OTRAS PARTES Y DE LAS NO ESPECIFICADAS DE LA BOCA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C069",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA BOCA, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C07X",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA GLANDULA PAROTIDA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C080",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA GLANDULA SUBMAXILAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C081",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA GLANDULA SUBLINGUAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C088",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DE LAS GLANDULAS SALIVALES MAYORES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C089",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE GLANDULA SALIVAL MAYOR, NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C090",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA FOSA AMIGDALINA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C091",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL PILAR AMIGDALINO (ANTERIOR) (POSTERIOR)",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C098",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DE LA AMIGDALA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C099",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA AMIGDALA, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C100",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA VALECULA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C101",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA CARA ANTERIOR DE LA EPIGLOTIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C102",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PARED LATERAL DE LA OROFARINGE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C103",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PARED POSTERIOR DE LA OROFARINGE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C104",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA HENDIDURA BRANQUIAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C108",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DE LA OROFARINGE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C109",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA OROFARINGE, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C110",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PARED SUPERIOR DE LA NASOFARINGE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C111",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PARED POSTERIOR DE LA NASOFARINGE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C112",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PARED LATERAL DE LA NASOFARINGE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C113",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PARED ANTERIOR DE LA NASOFARINGE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C118",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DE LA NASOFARINGE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C119",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA NASOFARINGE, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C12X",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL SENO PIRIFORME",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C130",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA REGION POSTCRICOIDEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C131",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL PLIEGUE ARITENOEPIGLOTICO, CARA HIPOFARINGEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C132",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PARED POSTERIOR DE LA HIPOFARINGE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C138",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DE LA HIPOFARINGE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C139",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA HIPOFARINGE, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C140",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA FARINGE, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C142",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL ANILLO DE WALDEYER",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C148",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DEL LABIO, DE LA CAVIDAD BUCAL Y DE LA LARINGE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C150",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL ESOFAGO, PORCION CERVICAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C151",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL ESOFAGO, PORCION TORACICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C152",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL ESOFAGO, PORCION ABDOMINAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C153",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL TERCIO SUPERIOR DEL ESOFAGO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C154",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL TERCIO MEDIO DEL ESOFAGO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C155",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL TERCIO INFERIOR DEL ESOFAGO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C158",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DEL ESOFAGO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C159",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL ESOFAGO, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C160",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL CARDIAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C161",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL FUNDUS GASTRICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C162",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL CUERPO DEL ESTOMAGO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C163",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL ANTRO PILORICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C164",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL PILORO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C165",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA CURVATURA MENOR DEL ESTOMAGO, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C166",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA CURVATURA MAYOR DEL ESTOMAGO, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C168",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DEL ESTOMAGO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C169",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL ESTOMAGO, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C170",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL DUODENO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C171",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL YEYUNO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C172",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL ILEON",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C173",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL DIVERTICULO DE MECKEL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C178",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL LESION DE SITIOS CONTIGUOS DEL INTESTINO DELGADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C179",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL INTESTINO DELGADO, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C180",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL CIEGO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C181",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL APENDICE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C182",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL COLON ASCENDENTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C183",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL ANGULO HEPATICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C184",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL COLON TRANSVERSO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C185",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL ANGULO ESPLENICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C186",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL COLON DESCENDENTE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C187",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL COLON SIGMOIDE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C188",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DEL COLON",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C189",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL COLON, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C19X",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA UNION RECTOSIGMOIDEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C20X",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL RECTO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C210",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL ANO, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C211",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL CONDUCTO ANAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C212",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA ZONA CLOACOGENICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C218",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DEL ANO, DEL CONDUCTO ANAL Y DEL RECTO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C220",
+    "Simbolo": "jero",
+    "Descripcion": "CARCINOMA DE CELULAS HEPATICAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C221",
+    "Simbolo": "jero",
+    "Descripcion": "CARCINOMA DE VIAS BILIARES INTRAHEPATICAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C222",
+    "Simbolo": "jero",
+    "Descripcion": "HEPATOBLASTOMA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C223",
+    "Simbolo": "jero",
+    "Descripcion": "ANGIOSARCOMA DEL HIGADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C224",
+    "Simbolo": "jero",
+    "Descripcion": "OTROS SARCOMAS DEL HIGADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C227",
+    "Simbolo": "jero",
+    "Descripcion": "OTROS CARCINOMAS ESPECIFICADOS DEL HIGADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C229",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL HIGADO, NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C23X",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA VESICULA BILIAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C240",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO D E LAS VIAS BILIARES EXTRAHEPATICAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C241",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA AMPOLLA DE VATER",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C248",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DE LAS VIAS BILIARES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C249",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LAS VIAS BILIARES, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C250",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA CABEZA DEL PANCREAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C251",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL CUERPO DEL PANCREAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C252",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA COLA DEL PANCREAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C253",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL CONDUCTO PANCREATICO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C254",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL PANCREAS ENDOCRINO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C257",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE OTRAS PARTES ESPECIFICADAS DEL PANCREAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C258",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DEL PANCREAS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C259",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL PANCREAS, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C260",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL INTESTINO, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C261",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL BAZO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C268",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DE LOS ORGANOS DIGESTIVOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C269",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE SITIOS MAL DEFINIDOS DE LOS ORGANOS DIGESTIVOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C300",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA FOSA NASAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C301",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL OIDO MEDIO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C310",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL SENO MAXILAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C311",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL SENO ETMOIDAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C312",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL SENO FRONTAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C313",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL SENO ESFENOIDAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C318",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DE LOS SENOS PARANASALES",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C319",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL SENO PARANASAL NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C320",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA GLOTIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C321",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA REGION SUPRAGLOTICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C322",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA REGION SUBGLOTICA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C323",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL CARTILAGO LARINGEO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C328",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DE LA LARINGE",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C329",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA LARINGE, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C33X",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA TRAQUEA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C340",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL BRONQUIO PRINCIPAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C341",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL LOBULO SUPERIOR, BRONQUIO O PULMON",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C342",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL LOBULO MEDIO, BRONQUIO O PULMON",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C343",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL LOBULO INFERIOR, BRONQUIO O PULMON",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C348",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DE LOS BRONQUIOS Y DEL PULMON",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C349",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LOS BRONQUIOS O DEL PULMON, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C37X",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL TIMO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C380",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL CORAZON",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C381",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL MEDIASTINO ANTERIOR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C382",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL MEDIASTINO POSTERIOR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C383",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL MEDIASTINO, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C384",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PLEURA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C388",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DEL CORAZON, DEL MEDIASTINO Y DE LA PLEURA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C390",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LAS VIAS RESPIRATORIAS SUPERIORES, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C398",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DE LOS ORGANOS RESPIRATORIOS E INTRATORACICOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C399",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE SITIOS MAL DEFINIDOS DEL SISTEMA RESPIRATORIO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C400",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL OMOPLATO Y DE LOS HUESOS LARGOS DEL MIEMBRO SUPERIOR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C401",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LOS HUESOS CORTOS DEL MIEMBRO SUPERIOR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C402",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LOS HUESOS LARGOS DEL MIEMBRO INFERIOR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C403",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LOS HUESOS CORTOS DEL MIEMBRO INFERIOR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C408",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DE LOS HUESOS Y DE LOS CARTILAGOS ARTICULARES DE LOS MIEMBROS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C409",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LOS HUESOS Y DE LOS CARTILAGOS ARTICULARES DE LOS MIEMBROS, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C410",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LOS HUESOS DEL CRANEO Y DE LA CARA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C411",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL HUESO DEL MAXILAR INFERIOR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C412",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA COLUMNA VERTEBRAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C413",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA COSTILLA, ESTERNON Y CLAVICULA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C414",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LOS HUESOS DE LA PELVIS, SACRO Y COCCIX",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C418",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DEL HUESO Y DEL CARTILAGO ARTICULAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C419",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE HUESO Y DEL CARTILAGO ARTICULAR, NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C430",
+    "Simbolo": "jero",
+    "Descripcion": "MELANOMA MALIGNO DEL LABIO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C431",
+    "Simbolo": "jero",
+    "Descripcion": "MELANOMA MALIGNO DEL PARPADO, INCLUIDA LA COMISURA PALPEBRAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C432",
+    "Simbolo": "jero",
+    "Descripcion": "MELANOMA MALIGNO DE LA OREJA Y DEL CONDUCTO AUDITIVO EXTERNO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C433",
+    "Simbolo": "jero",
+    "Descripcion": "MELANOMA MALIGNO DE LAS OTRAS PARTES Y LAS NO ESPECIFICADAS DE LA CARA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C434",
+    "Simbolo": "jero",
+    "Descripcion": "MELANOMA MALIGNO DEL CUERO CABELLUDO Y DEL CUELLO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C435",
+    "Simbolo": "jero",
+    "Descripcion": "MELANOMA MALIGNO DEL TRONCO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C436",
+    "Simbolo": "jero",
+    "Descripcion": "MELANOMA MALIGNO DEL MIEMBRO SUPERIOR, INCLUIDO EL HOMBRO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C437",
+    "Simbolo": "jero",
+    "Descripcion": "MELANOMA MALIGNO DEL MIEMBRO INFERIOR, INCLUIDA LA CADERA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C438",
+    "Simbolo": "jero",
+    "Descripcion": "MELANOMA MALIGNO DE SITIOS CONTIGUOS DE LA PIEL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C439",
+    "Simbolo": "jero",
+    "Descripcion": "MELANOMA MALIGNO DE PIEL, SITIO NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C440",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PIEL DEL LABIO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C441",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PIEL DEL PARPADO, INCLUIDA LA COMISURA PALPEBRAL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C442",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PIEL DE LA OREJA Y DEL CONDUCTO AUDITIVO EXTERNO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C443",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PIEL DE OTRAS PARTES Y DE LAS NO ESPECIFICADAS DE LA CARA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C444",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PIEL DEL CUERO CABELLUDO Y DEL CUELLO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C445",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PIEL DEL TRONCO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C446",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PIEL DEL MIEMBRO SUPERIOR, INCLUIDO EL HOMBRO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C447",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PIEL DEL MIEMBRO INFERIOR, INCLUIDA LA CADERA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C448",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DE LA PIEL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C449",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LA PIEL, SITIO NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C450",
+    "Simbolo": "jero",
+    "Descripcion": "MESOTELIOMA DE LA PLEURA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C451",
+    "Simbolo": "jero",
+    "Descripcion": "MESOTELIOMA DEL PERITONEO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C452",
+    "Simbolo": "jero",
+    "Descripcion": "MESOTELIOMA DEL PERICARDIO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C457",
+    "Simbolo": "jero",
+    "Descripcion": "MESOTELIOMA DE OTROS SITIOS ESPECIFICADOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C459",
+    "Simbolo": "jero",
+    "Descripcion": "MESOTELIOMA, DE SITIO NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C460",
+    "Simbolo": "jero",
+    "Descripcion": "SARCOMA DE KAPOSI DE LA PIEL",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C461",
+    "Simbolo": "jero",
+    "Descripcion": "SARCOMA DE KAPOSI DEL TEJIDO BLANDO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C462",
+    "Simbolo": "jero",
+    "Descripcion": "SARCOMA DE KAPOSI DEL PALADAR",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C463",
+    "Simbolo": "jero",
+    "Descripcion": "SARCOMA DE KAPOSI DE LOS GANGLIOS LINFATICOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C467",
+    "Simbolo": "jero",
+    "Descripcion": "SARCOMA DE KAPOSI DE OTROS SITIOS ESPECIFICADOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C468",
+    "Simbolo": "jero",
+    "Descripcion": "SARCOMA DE KAPOSI DE MULTIPLES ORGANOS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C469",
+    "Simbolo": "jero",
+    "Descripcion": "SARCOMA DE KAPOSI, DE SITIO NO ESPECIFICADO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C470",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LOS NERVIOS PERIFERICOS DE LA CABEZA, CARA Y CUELLO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C471",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LOS NERVIOS PERIFERICOS DEL MIEMBRO SUPERIOR, INCLUIDO EL HOMBRO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C472",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LOS NERVIOS PERIFERICOS DEL MIEMBRO INFERIOR, INCLUIDA LA CADERA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C473",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LOS NERVIOS PERIFERICOS DEL TORAX",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C474",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LOS NERVIOS PERIFERICOS DEL ABDOMEN",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C475",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LOS NERVIOS PERIFERICOS DE LA PELVIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C476",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LOS NERVIOS PERIFERICOS DEL TRONCO, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C478",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DE LOS NERVIOS PERIFERICOS Y DEL SISTEMA NERVIOSO AUTONOMO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C479",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE LOS NERVIOS PERIFERICOS Y DEL SISTEMA NERVIOSO AUTONOMO, PARTE NO ESPECIFICADA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C480",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL RETROPERITONEO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C481",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DE PARTE ESPECIFICADA DEL PERITONEO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C482",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL PERITONEO, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C488",
+    "Simbolo": "jero",
+    "Descripcion": "LESION DE SITIOS CONTIGUOS DEL PERITONEO Y DEL RETROPERITONEO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C490",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL TEJIDO CONJUNTIVO Y TEJIDO BLANDO DE LA CABEZA, CARA Y CUELLO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C491",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL TEJIDO CONJUNTIVO Y TEJIDO BLANDO DEL MIEMBRO SUPERIOR, INCLUIDO EL HOMBRO",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C492",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL TEJIDO CONJUNTIVO Y TEJIDO BLANDO DEL MIEMBRO INFERIOR, INCLUIDA LA CADERA",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C493",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL TEJIDO CONJUNTIVO Y TEJIDO BLANDO DEL TORAX",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C494",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL TEJIDO CONJUNTIVO Y TEJIDO BLANDO DEL ABDOMEN",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C495",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL TEJIDO CONJUNTIVO Y TEJIDO BLANDO DE LA PELVIS",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  },
+  {
+    "Codigo": "C496",
+    "Simbolo": "jero",
+    "Descripcion": "TUMOR MALIGNO DEL TEJIDO CONJUNTIVO Y TEJIDO BLANDO DEL TRONCO, SIN OTRA ESPECIFICACION",
+    "Sexo": "A",
+    "Observaciones": "fuck"
+  }
+]

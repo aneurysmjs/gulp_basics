@@ -10,7 +10,8 @@
    function frameworksFactory(API_URL, $http, $q) {
    
       return {
-          getFrameworks: getFrameworks
+          getFrameworks: getFrameworks,
+          getBigJSON: getBigJSON
       };
       
       function getFrameworks() {
@@ -19,6 +20,25 @@
 
             $http({
                url: API_URL + '/frameworks',
+               method: 'GET',
+               cache: true
+            })
+            .then(function (promise) {
+               resolve(promise.data);
+            }, function (reason) {
+               reject(reason);
+            });
+
+         });
+
+      }
+
+      function getBigJSON() {
+
+         return $q(function (resolve, reject) {
+
+            $http({
+               url: API_URL + '/assets/bigJSON',
                method: 'GET'
             })
             .then(function (promise) {

@@ -10,13 +10,19 @@
 <button class="btn btn-default" type="button" ui-sref="home">Home</button>
 <button class="btn btn-default" type="button" ui-sref="frameworks">Frameworks</button>
 
-<main class="container-fluid" ui-view=""></main>
+<main class="container" ui-view=""></main>
 
 <script src="../node_modules/angular/angular.js"></script>
 <script src="../node_modules/angular-ui-router/release/angular-ui-router.js"></script>
 
-<!--inject:js-->
-<!--endinject-->
+<script src="components/app.js"></script>
+<script src="components/appRoutes.js"></script>
+<script src="components/home/homeModule.js"></script>
+<script src="components/home/homeDirective.js"></script>
+<script src="components/frameworks/frameworksModule.js"></script>
+<script src="components/frameworks/frameworksDirective.js"></script>
+<script src="components/frameworks/frameworksFactory.js"></script>
+
 
 </body>
 </html>
