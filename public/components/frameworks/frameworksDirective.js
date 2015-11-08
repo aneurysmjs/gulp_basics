@@ -42,14 +42,12 @@
       self.deleteFramework = deleteFramework;
 
       function deleteFramework(framework) {
+
          var index = self.frameworks.indexOf(framework);
          self.frameworks.splice(index, 1);
-         $scope.$on('destroy', function () {
-            alert('destroyed??');
-         });
+
       }
 
    }
-
 
 }());

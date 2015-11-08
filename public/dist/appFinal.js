@@ -7,64 +7,37 @@
 
 }());
 
-//Routes
 (function() {
    'use strict';
 
-   angular
-      .module('app')
-      .config(config);
-
-   config.$inject = ['$stateProvider', '$urlRouterProvider'];
-
-   function config($stateProvider, $urlRouterProvider) {
-
-      $urlRouterProvider.when("", "/home");
-      $urlRouterProvider.when("/", "/home");
-      $urlRouterProvider.otherwise('/home');
-
-      $stateProvider
-         .state('home',{
-            url: '/home',
-            templateUrl: 'components/home/home.html'
-         })
-         .state('frameworks',{
-            url: '/frameworks',
-            templateUrl: 'components/frameworks/frameworks.html'
-         })
-         .state('about',{
-            url: '/about',
-            templateUrl: 'components/about/about.html'
-         });
-
-   }
+   angular.module('home', []);
 
 }());
 
 (function() {
    'use strict';
-   
+
    angular
-      .module('about')
-      .directive('aboutDirective', aboutDirective);
-   
-   aboutDirective.$inject = [];
-   
-   function aboutDirective() {
+      .module('home')
+      .directive('homeDirective', homeDirective);
+
+   homeDirective.$inject = [];
+
+   function homeDirective() {
 
       return {
-         scope:{},
-         controller: AboutController,
-         controllerAs: 'aboutCtrl',
+         scope: {},
+         controller: HomeController,
+         controllerAs: 'homeCtrl',
          bindToController: true,
-         template: '<h1>About</h1>'
+         template: '<h1>Gulp</h1>'
       };
 
    }
 
-   AboutController.$inject = [];
+   HomeController.$inject = [];
 
-   function AboutController() {
+   function HomeController() {
 
    }
 
@@ -72,9 +45,9 @@
 
 (function() {
    'use strict';
-   
-   angular.module('about', []);
-   
+
+   angular.module('frameworks', []);
+
 }());
 
 (function() {
@@ -121,15 +94,13 @@
       self.deleteFramework = deleteFramework;
 
       function deleteFramework(framework) {
+
          var index = self.frameworks.indexOf(framework);
          self.frameworks.splice(index, 1);
-         $scope.$on('destroy', function () {
-            alert('destroyed??');
-         });
+
       }
 
    }
-
 
 }());
 
@@ -196,43 +167,70 @@
 
 (function() {
    'use strict';
-
-   angular.module('frameworks', []);
-
+   
+   angular.module('about', []);
+   
 }());
 
 (function() {
    'use strict';
-
+   
    angular
-      .module('home')
-      .directive('homeDirective', homeDirective);
-
-   homeDirective.$inject = [];
-
-   function homeDirective() {
+      .module('about')
+      .directive('aboutDirective', aboutDirective);
+   
+   aboutDirective.$inject = [];
+   
+   function aboutDirective() {
 
       return {
-         scope: {},
-         controller: HomeController,
-         controllerAs: 'homeCtrl',
+         scope:{},
+         controller: AboutController,
+         controllerAs: 'aboutCtrl',
          bindToController: true,
-         template: '<h1>Gulp</h1>'
+         template: '<h1>About</h1>'
       };
 
    }
 
-   HomeController.$inject = [];
+   AboutController.$inject = [];
 
-   function HomeController() {
+   function AboutController() {
 
    }
 
 }());
 
+//Routes
 (function() {
    'use strict';
 
-   angular.module('home', []);
+   angular
+      .module('app')
+      .config(config);
+
+   config.$inject = ['$stateProvider', '$urlRouterProvider'];
+
+   function config($stateProvider, $urlRouterProvider) {
+
+      $urlRouterProvider.when("", "/home");
+      $urlRouterProvider.when("/", "/home");
+      $urlRouterProvider.otherwise('/home');
+
+      $stateProvider
+         .state('home',{
+            url: '/home',
+            templateUrl: 'components/home/home.html'
+         })
+         .state('frameworks',{
+            url: '/frameworks',
+            templateUrl: 'components/frameworks/frameworks.html'
+         })
+         .state('about',{
+            url: '/about',
+            templateUrl: 'components/about/about.html'
+         });
+
+   }
 
 }());

@@ -29,7 +29,7 @@ gulp.task('watch', function () {
 
 gulp.task('concatAll', function () {
 
-   return gulp.src(gulpConfig.app_files.js)
+   return gulp.src(gulpConfig.concatOrder)
       .pipe(concat('appFinal.js', {newLine: '\n\n'}))
       .pipe(gulp.dest('./public/dist'))
       .pipe(livereload());
