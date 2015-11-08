@@ -1,7 +1,8 @@
 var gulp = require('gulp'),
     runSequence = require('run-sequence'),
     inject = require('gulp-inject'),
-    gulpConfig = require('./gulp/gulp.config.js');
+    gulpConfig = require('./gulp/gulp.config.js'),
+    jshint = require('gulp-jshint');
 
 gulp.task('default', function (callback) {
    runSequence('build', callback);
@@ -21,6 +22,18 @@ gulp.task('index', function (callback) {
       .pipe(inject(gulp.src(gulpConfig.app_files.tplFiles)))
       .pipe(gulp.dest('public/dist'));
 
+});
+
+gulp.task('lint', function () {
+
+   return gulp.src(gulpConfig.app_files.js)
+      .pipe(jshint())
+      .pipe(jshint.reporter('default'));
+
+});
+
+gulp.task('watch', function () {
+   gulp.watch(gulp.src(gulpConfig.app_files.js).app_files.js, ['lint']);
 });
 
 gulp.task('mainTask', ['task1', 'task2', 'task3'], function () {

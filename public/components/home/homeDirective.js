@@ -15,7 +15,7 @@
          controllerAs: 'homeCtrl',
          bindToController: true,
          template: '<h1>Gulp</h1>'
-      }
+      };
 
    }
 
