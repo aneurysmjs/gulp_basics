@@ -2,7 +2,8 @@ var gulp = require('gulp'),
     runSequence = require('run-sequence'),
     inject = require('gulp-inject'),
     gulpConfig = require('./gulp/gulp.config.js'),
-    jshint = require('gulp-jshint');
+    jshint = require('gulp-jshint'),
+    concat = require('gulp-concat');
 
 gulp.task('default', function (callback) {
    runSequence('build', callback);
@@ -33,7 +34,13 @@ gulp.task('lint', function () {
 });
 
 gulp.task('watch', function () {
-   gulp.watch(gulp.src(gulpConfig.app_files.js).app_files.js, ['lint']);
+   gulp.watch(gulp.src('public/components/**/*js'), ['lint']);
+});
+
+gulp.task('concatAll', function () {
+   return gulp.src(gulpConfig.app_files.js)
+      .pipe(concat('all.js'))
+      .pipe(gulp.dest('/public/dist'));
 });
 
 gulp.task('mainTask', ['task1', 'task2', 'task3'], function () {
