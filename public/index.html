@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+<head>
+   <meta charset="UTF-8">
+   <title>Gulp Basics</title>
+   <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.css"/>
+</head>
+<body>
+
+<button class="btn btn-default" type="button" ui-sref="home">Home</button>
+<button class="btn btn-default" type="button" ui-sref="frameworks">Frameworks</button>
+
+<main class="container-fluid" ui-view=""></main>
+
+<script src="../node_modules/angular/angular.js"></script>
+<script src="../node_modules/angular-ui-router/release/angular-ui-router.js"></script>
+
+<!--inject:js-->
+<!--endinject-->
+
+</body>
+</html>
