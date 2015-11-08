@@ -33,7 +33,7 @@ gulp.task('lint', function () {
 });
 
 gulp.task('watch', function () {
-   gulp.watch(gulp.src(gulpConfig.app_files.js).app_files.js, ['lint']);
+   gulp.watch(gulpConfig.app_files.js, ['lint']);
 });
 
 gulp.task('mainTask', ['task1', 'task2', 'task3'], function () {
