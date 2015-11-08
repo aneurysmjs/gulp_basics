@@ -14,14 +14,14 @@
          controller: HomeController,
          controllerAs: 'homeCtrl',
          bindToController: true,
-         template: '<h1>Gulp</h1>'
+         template: '<h1>Gulp is so cool!!!</h1>'
       };
 
    }
 
-   HomeController.$inject = [];
+   HomeController.$inject = ['homeFactory'];
 
-   function HomeController() {
+   function HomeController(homeFactory) {
 
    }
 

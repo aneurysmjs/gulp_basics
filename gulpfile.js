@@ -4,7 +4,8 @@ var gulp = require('gulp'),
     gulpConfig = require('./gulp/gulp.config.js'),
     jshint = require('gulp-jshint'),
     concat = require('gulp-concat'),
-    livereload = require('gulp-livereload');
+    livereload = require('gulp-livereload'),
+    sourcemaps = require('gulp-sourcemaps');
 
 gulp.task('default', function (callback) {
    runSequence('build', callback);
@@ -28,10 +29,11 @@ gulp.task('watch', function () {
 });
 
 gulp.task('concatAll', function () {
-
    return gulp.src(gulpConfig.concatOrder)
-      .pipe(concat('appFinal.js', {newLine: '\n\n'}))
-      .pipe(gulp.dest('./public/dist'))
-      .pipe(livereload());
+      .pipe(sourcemaps.init())
+         .pipe(concat('appFinal.js', {newLine: '\n\n'}))
+      .pipe(sourcemaps.write('./'))
+      .pipe(gulp.dest('./public/dist'));
+
 
 });

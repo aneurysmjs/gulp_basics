@@ -30,14 +30,39 @@
          controller: HomeController,
          controllerAs: 'homeCtrl',
          bindToController: true,
-         template: '<h1>Gulp</h1>'
+         template: '<h1>Gulp is so cool!!!</h1>'
       };
 
    }
 
-   HomeController.$inject = [];
+   HomeController.$inject = ['homeFactory'];
 
-   function HomeController() {
+   function HomeController(homeFactory) {
+
+   }
+
+}());
+
+(function() {
+   'use strict';
+
+   angular.module('home').factory('homeFactory', homeFactory);
+
+   homeFactory.$inject = ['$http', '$q'];
+
+   function homeFactory($http, $q) {
+
+      return {
+          getUsers: getUsers
+      };
+
+      function getUsers() {
+
+         $q(function (resolve, reject) {
+
+         });
+
+      }
 
    }
 
@@ -234,3 +259,4 @@
    }
 
 }());
+//# sourceMappingURL=appFinal.js.map
