@@ -32,7 +32,7 @@
       $stateProvider
          .state('home',{
             url: '/home',
-            templateUrl: 'components/home/home.html'
+            templateUrl: 'components/home/templates/home.html'
          });
    }
 
@@ -43,7 +43,7 @@
    'use strict';
    angular.module('home').run(['$templateCache', function ($templateCache) {
       console.log('home run');
-      $templateCache.put('/components/home/home.html', '<home-directive></home-directive>');
+      $templateCache.put('/components/home/templates/home.html', '<home-directive></home-directive>');
    }]);
 }());
 
@@ -52,7 +52,7 @@
    'use strict';
    angular.module('home').run(['$templateCache', function ($templateCache) {
       console.log('home run tpl');
-      $templateCache.put('/components/home/home.tpl.html', '<h1>Honey, I\'m home...</h1>');
+      $templateCache.put('/components/home/templates/home.tpl.html', '<h1>Honey, I\'m home...</h1>');
    }]);
 }());
 
@@ -73,7 +73,7 @@
          controller: HomeController,
          controllerAs: 'homeCtrl',
          bindToController: true,
-         templateUrl: 'components/home/home.tpl.html'
+         templateUrl: 'components/home/templates/home.tpl.html'
       };
 
    }
@@ -143,7 +143,7 @@
       $stateProvider
          .state('frameworks',{
             url: '/frameworks',
-            templateUrl: 'components/frameworks/frameworks.html'
+            templateUrl: 'components/frameworks/templates/frameworks.html'
          });
 
    }
@@ -155,7 +155,7 @@
    'use strict';
    angular.module('frameworks').run(['$templateCache', function ($templateCache) {
       console.log('frameworks run');
-      $templateCache.put('/components/frameworks/frameworks.html', '<frameworks-directive></frameworks-directive>');
+      $templateCache.put('/components/frameworks/templates/frameworks.html', '<frameworks-directive></frameworks-directive>');
    }]);
 }());
 
@@ -163,7 +163,7 @@
    'use strict';
    angular.module('frameworks').run(['$templateCache', function ($templateCache) {
       console.log('frameworks run tpl');
-      $templateCache.put('/components/frameworks/frameworks.tpl.html', '<div class="table-responsive">\n   <table class="table table-condensed">\n      <thead>\n      <tr>\n         <th>id</th>\n         <th>Name</th>\n         <th>Company</th>\n         <th>&nbsp;</th>\n      </tr>\n      </thead>\n      <tbody>\n      <tr ng-repeat="framework in frameworksCtrl.frameworks">\n         <td>{{framework.id}}</td>\n         <td>{{framework.name}}</td>\n         <td>{{framework.company}}</td>\n         <td>\n            <span class="glyphicon glyphicon-remove"\n                  ng-click="frameworksCtrl.deleteFramework(framework)">\n            </span>\n         </td>\n      </tr>\n      </tbody>\n   </table>\n</div>\n\n');
+      $templateCache.put('/components/frameworks/templates/frameworks.tpl.html', '<div class="table-responsive">\n   <table class="table table-condensed">\n      <thead>\n      <tr>\n         <th>id</th>\n         <th>Name</th>\n         <th>Company</th>\n         <th>&nbsp;</th>\n      </tr>\n      </thead>\n      <tbody>\n      <tr ng-repeat="framework in frameworksCtrl.frameworks">\n         <td>{{framework.id}}</td>\n         <td>{{framework.name}}</td>\n         <td>{{framework.company}}</td>\n         <td>\n            <span class="glyphicon glyphicon-remove"\n                  ng-click="frameworksCtrl.deleteFramework(framework)">\n            </span>\n         </td>\n      </tr>\n      </tbody>\n   </table>\n</div>\n\n');
    }]);
 }());
 
@@ -186,7 +186,7 @@
          controller: FrameworksController,
          controllerAs: 'frameworksCtrl',
          bindToController: true,
-         templateUrl: 'components/frameworks/frameworks.tpl.html'
+         templateUrl: 'components/frameworks/templates/frameworks.tpl.html'
       };
 
    }
@@ -307,7 +307,7 @@
       $stateProvider
          .state('about',{
             url: '/about',
-            templateUrl: 'components/about/about.html'
+            templateUrl: 'components/about/templates/about.html'
          });
 
    }
@@ -319,7 +319,7 @@
    'use strict';
    angular.module('about').run(['$templateCache', function ($templateCache) {
       console.log('about run');
-      $templateCache.put('/components/about/about.html',
+      $templateCache.put('/components/about/templates/about.html',
          '<about-directive></about-directive>');
    }]);
 }());
@@ -329,7 +329,7 @@
 
    angular.module('about').run(['$templateCache', function ($templateCache) {
       console.log('about run');
-      $templateCache.put('/components/about/about.tpl.html', '<h1>{{aboutCtrl.title}}</h1>');
+      $templateCache.put('/components/about/templates/about.tpl.html', '<h1>{{aboutCtrl.title}}</h1>');
    }]);
 }());
 
@@ -351,7 +351,7 @@
          controller: AboutController,
          controllerAs: 'aboutCtrl',
          bindToController: true,
-         templateUrl: 'components/about/about.tpl.html'
+         templateUrl: 'components/about/templates/about.tpl.html'
       };
 
    }
