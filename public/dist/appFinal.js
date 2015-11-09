@@ -2,121 +2,9 @@
    'use strict';
 
    angular
-      .module('app', ['ui.router', 'home', 'frameworks', 'about'])
+      .module('app', ['ui.router', 'frameworks', 'about'])
       .constant('API_URL', 'http://localhost:1989');
       console.log('--- app module --- ');
-
-}());
-
-(function () {
-   'use strict';
-
-   angular.module('home', []);
-   console.log('--- home module--- ');
-
-}());
-
-(function () {
-   'use strict';
-
-   angular
-      .module('home')
-      .config(config);
-   console.log('--- home config --- ');
-
-   config.$inject = ['$stateProvider', '$urlRouterProvider'];
-
-   function config($stateProvider, $urlRouterProvider) {
-
-      $stateProvider
-         .state('home',{
-            url: '/home',
-            templateUrl: 'components/home/templates/home.html'
-         });
-
-   }
-
-}());
-
-(function () {
-   'use strict';
-   angular.module('home').run(['$templateCache', function ($templateCache) {
-      console.log('home run');
-      $templateCache.put('/components/home/templates/home.html', '<home-directive></home-directive>');
-   }]);
-}());
-
-
-(function () {
-   'use strict';
-   angular.module('home').run(['$templateCache', function ($templateCache) {
-      console.log('home run tpl');
-      $templateCache.put('/components/home/templates/home.tpl.html', '<h1>Honey, I\'m home...</h1>');
-   }]);
-}());
-
-
-(function () {
-   'use strict';
-
-   angular
-      .module('home')
-      .directive('homeDirective', homeDirective);
-
-   homeDirective.$inject = [];
-
-   function homeDirective() {
-
-      return {
-         restrict: "E",
-         transclude: true,
-         scope: {},
-         templateUrl: 'components/home/templates/home.tpl.html',
-         controller: HomeController,
-         controllerAs: 'homeCtrl',
-         bindToController: true
-      };
-
-   }
-
-   HomeController.$inject = ['homeFactory'];
-
-   function HomeController(homeFactory) {
-
-      var self = this;
-
-      activate();
-
-      function activate() {
-
-      }
-
-   }
-
-}());
-
-(function () {
-   'use strict';
-
-   angular.module('home').factory('homeFactory', homeFactory);
-
-   homeFactory.$inject = ['$http', '$q'];
-
-   function homeFactory($http, $q) {
-
-      return {
-          getUsers: getUsers
-      };
-
-      function getUsers() {
-
-         $q(function (resolve, reject) {
-
-         });
-
-      }
-
-   }
 
 }());
 
@@ -128,7 +16,6 @@
 
 }());
 
-//Routes
 (function () {
    'use strict';
 
@@ -151,7 +38,6 @@
 
 }());
 
-
 (function () {
    'use strict';
    angular.module('frameworks').run(['$templateCache', function ($templateCache) {
@@ -168,31 +54,34 @@
    }]);
 }());
 
-
 (function () {
    'use strict';
-
    angular
       .module('frameworks')
-      .directive('frameworksDirective', frameworksDirective);
+      .directive('frameworksDirective', function () {
 
-   console.log('--- frameworks directive --- ');
+         console.log('--- frameworks directive --- ');
 
-   frameworksDirective.$inject = [];
+         return {
+            restrict: "E",
+            transclude: true,
+            scope: {
+               title: "@"
+            },
+            templateUrl: 'components/frameworks/templates/frameworks.tpl.html',
+            link: function (scope) {
+               scope.isContentVisible = false;
 
-   function frameworksDirective() {
+               scope.toggleContent = function () {
+                  scope.isContentVisible = !scope.isContentVisible;
+               };
+            },
+            controller: FrameworksController,
+            controllerAs: 'frameworksCtrl',
+            bindToController: true
+         };
 
-      return {
-         restrict: "E",
-         transclude: true,
-         scope: {},
-         templateUrl: 'components/frameworks/templates/frameworks.tpl.html',
-         controller: FrameworksController,
-         controllerAs: 'frameworksCtrl',
-         bindToController: true
-      };
-
-   }
+      });
 
    FrameworksController.$inject = ['frameworksFactory', '$scope'];
 
@@ -228,22 +117,22 @@
 
 (function () {
    'use strict';
-   
+
    angular
       .module('frameworks')
       .factory('frameworksFactory', frameworksFactory);
-   
+
    frameworksFactory.$inject = ['API_URL', '$http', '$q', '$cacheFactory'];
-   
+
    function frameworksFactory(API_URL, $http, $q, $cacheFactory) {
 
       var jeroCache = $cacheFactory('jeroCache');
-   
+
       return {
           getFrameworks: getFrameworks,
           getBigJSON: getBigJSON
       };
-      
+
       function getFrameworks() {
 
          return $q(function (resolve, reject) {
@@ -280,7 +169,7 @@
          });
 
       }
-      
+
    }
 
 }());
@@ -293,7 +182,6 @@
 
 }());
 
-//Routes
 (function () {
    'use strict';
 
@@ -306,7 +194,6 @@
 
    function config($stateProvider, $urlRouterProvider) {
 
-
       $stateProvider
          .state('about',{
             url: '/about',
@@ -317,18 +204,16 @@
 
 }());
 
-
 (function () {
    'use strict';
    angular.module('about').run(['$templateCache', function ($templateCache) {
       console.log('about run');
-      $templateCache.put('/components/about/templates/about.html', '<about-directive></about-directive>');
+      $templateCache.put('/components/about/templates/about.html', '<about></about>');
    }]);
 }());
 
 (function () {
    'use strict';
-
    angular.module('about').run(['$templateCache', function ($templateCache) {
       console.log('about run');
       $templateCache.put('/components/about/templates/about.tpl.html', '<h1>{{aboutCtrl.title}}</h1>');
@@ -342,23 +227,28 @@
 
    angular
       .module('about')
-      .directive('aboutDirective', aboutDirective);
+      .directive('about', function () {
 
-   aboutDirective.$inject = [];
+         return {
+            restrict: "E",
+            transclude: true,
+            scope: {
+               title: "@"
+            },
+            templateUrl: 'components/about/templates/about.tpl.html',
+            link: function (scope) {
+               scope.isContentVisible = false;
 
-   function aboutDirective() {
+               scope.toggleContent = function () {
+                  scope.isContentVisible = !scope.isContentVisible;
+               };
+            },
+            controller: AboutController,
+            controllerAs: 'aboutCtrl',
+            bindToController: true
+         };
 
-      return {
-         restrict: "E",
-         transclude: true,
-         scope:{},
-         templateUrl: 'components/about/templates/about.tpl.html',
-         controller: AboutController,
-         controllerAs: 'aboutCtrl',
-         bindToController: true
-      };
-
-   }
+      });
 
    AboutController.$inject = [];
 

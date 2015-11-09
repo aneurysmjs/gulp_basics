@@ -46,7 +46,6 @@
    });
 }());
 
-
 (function () {
    'use strict';
    angular.module("frameworks").run(function ($templateCache) {
@@ -55,10 +54,14 @@
    });
 }());
 
-
 (function () {
    'use strict';
-   angular.module("frameworks").directive("frameworks", function () {
+   angular
+      .module("frameworks")
+      .directive("frameworks", function () {
+
+      console.log('--- frameworks directive --- ');
+
       return {
          restrict: "E",
          transclude: true,
@@ -80,7 +83,6 @@
 
    });
 
-
    FrameworksController.$inject = ['frameworksFactory', '$scope'];
 
    function FrameworksController(frameworksFactory, $scope) {
@@ -88,6 +90,7 @@
       var self = this;
 
       activate();
+
       function activate() {
 
          frameworksFactory.getFrameworks().then(function (response) {
@@ -111,7 +114,6 @@
 
    }
 }());
-
 
 (function () {
    'use strict';
@@ -172,10 +174,12 @@
 
 }());
 
-
 (function () {
    'use strict';
-   angular.module("about", []);
+
+   angular.module('about', []);
+   console.log('--- about module --- ');
+
 }());
 
 (function () {
@@ -195,10 +199,10 @@
             url: '/about',
             templateUrl: 'components/about/templates/about.html'
          });
+
    }
 
 }());
-
 
 (function () {
    'use strict';
