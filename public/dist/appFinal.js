@@ -16,7 +16,6 @@
 
 }());
 
-//Routes
 (function () {
    'use strict';
 
@@ -34,10 +33,10 @@
             url: '/home',
             templateUrl: 'components/home/templates/home.html'
          });
+
    }
 
 }());
-
 
 (function () {
    'use strict';
@@ -69,11 +68,13 @@
    function homeDirective() {
 
       return {
+         restrict: "E",
+         transclude: true,
          scope: {},
+         templateUrl: 'components/home/templates/home.tpl.html',
          controller: HomeController,
          controllerAs: 'homeCtrl',
-         bindToController: true,
-         templateUrl: 'components/home/templates/home.tpl.html'
+         bindToController: true
       };
 
    }
@@ -182,11 +183,13 @@
    function frameworksDirective() {
 
       return {
+         restrict: "E",
+         transclude: true,
          scope: {},
+         templateUrl: 'components/frameworks/templates/frameworks.tpl.html',
          controller: FrameworksController,
          controllerAs: 'frameworksCtrl',
-         bindToController: true,
-         templateUrl: 'components/frameworks/templates/frameworks.tpl.html'
+         bindToController: true
       };
 
    }
@@ -319,8 +322,7 @@
    'use strict';
    angular.module('about').run(['$templateCache', function ($templateCache) {
       console.log('about run');
-      $templateCache.put('/components/about/templates/about.html',
-         '<about-directive></about-directive>');
+      $templateCache.put('/components/about/templates/about.html', '<about-directive></about-directive>');
    }]);
 }());
 
@@ -347,11 +349,13 @@
    function aboutDirective() {
 
       return {
+         restrict: "E",
+         transclude: true,
          scope:{},
+         templateUrl: 'components/about/templates/about.tpl.html',
          controller: AboutController,
          controllerAs: 'aboutCtrl',
-         bindToController: true,
-         templateUrl: 'components/about/templates/about.tpl.html'
+         bindToController: true
       };
 
    }
@@ -362,8 +366,7 @@
 
       var self = this;
 
-      self.title = 'FUCKING about'
+      self.title = 'I\'m a fucking about template';
    }
 
 }());
-//# sourceMappingURL=appFinal.js.map
