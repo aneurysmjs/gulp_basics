@@ -1,5 +1,6 @@
 (function() {
    'use strict';
+   console.log('--- frameworks directive --- ');
 
    angular
       .module('frameworks')
@@ -14,7 +15,7 @@
          controller: FrameworksController,
          controllerAs: 'frameworksCtrl',
          bindToController: true,
-         templateUrl: 'components/frameworks/frameworksTemplate.html'
+         templateUrl: 'components/frameworks/frameworks.tpl.html'
       };
 
    }

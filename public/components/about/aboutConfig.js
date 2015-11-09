@@ -3,9 +3,9 @@
    'use strict';
 
    angular
-      .module('app')
+      .module('about')
       .config(config);
-   console.log('--- app config --- ');
+   console.log('--- about config --- ');
 
    config.$inject = ['$stateProvider', '$urlRouterProvider'];
 
@@ -15,19 +15,11 @@
       $urlRouterProvider.when("/", "/home");
       $urlRouterProvider.otherwise('/home');
 
-      /*$stateProvider
-         .state('home',{
-            url: '/home',
-            templateUrl: 'components/home/home.html'
-         })
-         .state('frameworks',{
-            url: '/frameworks',
-            templateUrl: 'components/frameworks/frameworks.html'
-         })
+      $stateProvider
          .state('about',{
             url: '/about',
             templateUrl: 'components/about/about.html'
-         });*/
+         });
 
    }
 

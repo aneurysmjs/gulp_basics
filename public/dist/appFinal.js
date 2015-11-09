@@ -4,6 +4,42 @@
    angular
       .module('app', ['ui.router', 'home', 'frameworks', 'about'])
       .constant('API_URL', 'http://localhost:1989');
+   console.log('--- app module --- ');
+
+}());
+
+//Routes
+(function() {
+   'use strict';
+
+   angular
+      .module('app')
+      .config(config);
+   console.log('--- app config --- ');
+
+   config.$inject = ['$stateProvider', '$urlRouterProvider'];
+
+   function config($stateProvider, $urlRouterProvider) {
+
+      $urlRouterProvider.when("", "/home");
+      $urlRouterProvider.when("/", "/home");
+      $urlRouterProvider.otherwise('/home');
+
+      /*$stateProvider
+         .state('home',{
+            url: '/home',
+            templateUrl: 'components/home/home.html'
+         })
+         .state('frameworks',{
+            url: '/frameworks',
+            templateUrl: 'components/frameworks/frameworks.html'
+         })
+         .state('about',{
+            url: '/about',
+            templateUrl: 'components/about/about.html'
+         });*/
+
+   }
 
 }());
 
@@ -11,8 +47,49 @@
    'use strict';
 
    angular.module('home', []);
+   console.log('--- home module--- ');
 
 }());
+
+//Routes
+(function() {
+   'use strict';
+
+   angular
+      .module('home')
+      .config(config);
+   console.log('--- home config --- ');
+
+   config.$inject = ['$stateProvider', '$urlRouterProvider', '$templateCache'];
+
+   function config($stateProvider, $urlRouterProvider) {
+
+      $urlRouterProvider.when("", "/home");
+      $urlRouterProvider.when("/", "/home");
+      $urlRouterProvider.otherwise('/home');
+
+      $stateProvider
+         .state('home',{
+            url: '/home',
+            templateUrl: 'components/home/home.html'
+         });
+   }
+
+}());
+
+angular.module('home').run(['$templateCache', function($templateCache) {
+console.log('home run');
+  $templateCache.put('/components/home/home.html',
+    '<home-directive></home-directive>');
+  }]);
+
+
+angular.module('home').run(['$templateCache', function($templateCache) {
+console.log('home run');
+  $templateCache.put('/components/home/home.tpl.html',
+    '<h1>Honey, I\'m home...</h1>');
+  }]);
+
 
 (function() {
    'use strict';
@@ -30,7 +107,7 @@
          controller: HomeController,
          controllerAs: 'homeCtrl',
          bindToController: true,
-         template: '<h1>Gulp is so cool!!!</h1>'
+         templateUrl: 'components/home/home.tpl.html'
       };
 
    }
@@ -38,6 +115,14 @@
    HomeController.$inject = ['homeFactory'];
 
    function HomeController(homeFactory) {
+
+      var self = this;
+
+      activate();
+
+      function activate() {
+
+      }
 
    }
 
@@ -72,11 +157,54 @@
    'use strict';
 
    angular.module('frameworks', []);
+   console.log('--- frameworks module --- ');
 
 }());
 
+//Routes
 (function() {
    'use strict';
+
+   angular
+      .module('frameworks')
+      .config(config);
+   console.log('--- frameworks config --- ');
+
+   config.$inject = ['$stateProvider', '$urlRouterProvider'];
+
+   function config($stateProvider, $urlRouterProvider) {
+
+      $urlRouterProvider.when("", "/home");
+      $urlRouterProvider.when("/", "/home");
+      $urlRouterProvider.otherwise('/home');
+
+      $stateProvider
+         .state('frameworks',{
+            url: '/frameworks',
+            templateUrl: 'components/frameworks/frameworks.html'
+         });
+
+   }
+
+}());
+
+angular.module('frameworks').run(['$templateCache', function($templateCache) {
+console.log('frameworks run');
+  $templateCache.put('/components/frameworks/frameworks.html',
+    '<frameworks-directive></frameworks-directive>');
+  }]);
+
+
+angular.module('frameworks').run(['$templateCache', function($templateCache) {
+console.log('frameworks run');
+  $templateCache.put('/components/frameworks/frameworks.tpl.html',
+    '<div class="table-responsive">\n   <table class="table table-condensed">\n      <thead>\n      <tr>\n         <th>id</th>\n         <th>Name</th>\n         <th>Company</th>\n         <th>&nbsp;</th>\n      </tr>\n      </thead>\n      <tbody>\n      <tr ng-repeat="framework in frameworksCtrl.frameworks">\n         <td>{{framework.id}}</td>\n         <td>{{framework.name}}</td>\n         <td>{{framework.company}}</td>\n         <td>\n            <span class="glyphicon glyphicon-remove"\n                  ng-click="frameworksCtrl.deleteFramework(framework)">\n            </span>\n         </td>\n      </tr>\n      </tbody>\n   </table>\n</div>\n\n<!--<pre>{{frameworksCtrl.big | json}}</pre>-->');
+  }]);
+
+
+(function() {
+   'use strict';
+   console.log('--- frameworks directive --- ');
 
    angular
       .module('frameworks')
@@ -91,7 +219,7 @@
          controller: FrameworksController,
          controllerAs: 'frameworksCtrl',
          bindToController: true,
-         templateUrl: 'components/frameworks/frameworksTemplate.html'
+         templateUrl: 'components/frameworks/frameworks.tpl.html'
       };
 
    }
@@ -185,8 +313,6 @@
       }
       
    }
-   
-  
 
 }());
 
@@ -194,12 +320,55 @@
    'use strict';
    
    angular.module('about', []);
-   
+   console.log('--- about module --- ');
+
 }());
+
+//Routes
+(function() {
+   'use strict';
+
+   angular
+      .module('about')
+      .config(config);
+   console.log('--- about config --- ');
+
+   config.$inject = ['$stateProvider', '$urlRouterProvider'];
+
+   function config($stateProvider, $urlRouterProvider) {
+
+      $urlRouterProvider.when("", "/home");
+      $urlRouterProvider.when("/", "/home");
+      $urlRouterProvider.otherwise('/home');
+
+      $stateProvider
+         .state('about',{
+            url: '/about',
+            templateUrl: 'components/about/about.html'
+         });
+
+   }
+
+}());
+
+angular.module('about').run(['$templateCache', function($templateCache) {
+console.log('about run');
+  $templateCache.put('/components/about/about.html',
+    '<about-directive></about-directive>');
+  }]);
+
+
+angular.module('about').run(['$templateCache', function($templateCache) {
+console.log('about run');
+  $templateCache.put('/components/about/about.tpl.html',
+    '');
+  }]);
+
 
 (function() {
    'use strict';
-   
+   console.log('--- about directive --- ');
+
    angular
       .module('about')
       .directive('aboutDirective', aboutDirective);
@@ -213,7 +382,7 @@
          controller: AboutController,
          controllerAs: 'aboutCtrl',
          bindToController: true,
-         template: '<h1>About</h1>'
+         templateUrl: 'components/about/about.tpl.html'
       };
 
    }
@@ -221,40 +390,6 @@
    AboutController.$inject = [];
 
    function AboutController() {
-
-   }
-
-}());
-
-//Routes
-(function() {
-   'use strict';
-
-   angular
-      .module('app')
-      .config(config);
-
-   config.$inject = ['$stateProvider', '$urlRouterProvider'];
-
-   function config($stateProvider, $urlRouterProvider) {
-
-      $urlRouterProvider.when("", "/home");
-      $urlRouterProvider.when("/", "/home");
-      $urlRouterProvider.otherwise('/home');
-
-      $stateProvider
-         .state('home',{
-            url: '/home',
-            templateUrl: 'components/home/home.html'
-         })
-         .state('frameworks',{
-            url: '/frameworks',
-            templateUrl: 'components/frameworks/frameworks.html'
-         })
-         .state('about',{
-            url: '/about',
-            templateUrl: 'components/about/about.html'
-         });
 
    }
 

@@ -1,6 +1,7 @@
 (function() {
    'use strict';
-   
+   console.log('--- about directive --- ');
+
    angular
       .module('about')
       .directive('aboutDirective', aboutDirective);
@@ -14,7 +15,7 @@
          controller: AboutController,
          controllerAs: 'aboutCtrl',
          bindToController: true,
-         template: '<h1>About</h1>'
+         templateUrl: 'components/about/about.tpl.html'
       };
 
    }

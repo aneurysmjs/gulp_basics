@@ -14,7 +14,7 @@
          controller: HomeController,
          controllerAs: 'homeCtrl',
          bindToController: true,
-         template: '<h1>Gulp is so cool!!!</h1>'
+         templateUrl: 'components/home/home.tpl.html'
       };
 
    }
@@ -22,6 +22,14 @@
    HomeController.$inject = ['homeFactory'];
 
    function HomeController(homeFactory) {
+
+      var self = this;
+
+      activate();
+
+      function activate() {
+
+      }
 
    }
 
