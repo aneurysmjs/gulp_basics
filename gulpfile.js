@@ -53,14 +53,14 @@ gulp.task('templating', function () {
                });
          },
          prefix: "components/",
-         template:"(function () {" +
-                  "\t'use strict';\n" +
-                  "\tangular.module('<%= moduleName %>').run(run);\n" +
-                  "\trun.$inject = ['$templateCache'];\n" +
+         template:"(function () {\n" +
+                  "\t'use strict';\n\n" +
+                  "\tangular.module('<%= moduleName %>').run(run);\n\n" +
+                  "\trun.$inject = ['$templateCache'];\n\n" +
                   "\tfunction run($templateCache) {\n" +
                   "\t\tconsole.log('<%= moduleName %> run');\n" +
                   "\t\t$templateCache.put('<%= template.url %>', '<%= template.escapedContent %>');\n" +
-                  "\t}\n" +
+                  "\t}\n\n" +
                   "}());"
       }))
       .pipe(gulp.dest("./public/components"));
