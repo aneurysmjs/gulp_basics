@@ -1,4 +1,4 @@
-(function() {
+(function () {
    'use strict';
    console.log('--- frameworks directive --- ');
 
@@ -15,7 +15,7 @@
          controller: FrameworksController,
          controllerAs: 'frameworksCtrl',
          bindToController: true,
-         templateUrl: 'components/frameworks/frameworks.tpl.html'
+         templateUrl: 'components/frameworks/templates/frameworks.tpl.html'
       };
 
    }

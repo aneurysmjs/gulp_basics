@@ -1,5 +1,4 @@
-//Routes
-(function() {
+(function () {
    'use strict';
 
    angular
@@ -18,7 +17,7 @@
       $stateProvider
          .state('frameworks',{
             url: '/frameworks',
-            templateUrl: 'components/frameworks/frameworks.html'
+            templateUrl: 'components/frameworks/templates/frameworks.html'
          });
 
    }

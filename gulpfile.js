@@ -43,22 +43,25 @@ gulp.task('templating', function () {
    var pathParts, folder;
    console.log('--- templating--- ');
 
-   return gulp.src("./public/components/**/*.html")
+   return gulp.src("./public/components/**/templates/*.html")
       .pipe(ngHtml2Js({
          moduleName: function (file) {
                 pathParts = file.path.split('/');
-                folder = pathParts[pathParts.length - 2];
-
-            return folder.replace(/-[a-z]/g, function (match) {
-               return match.substr(1).toUpperCase();
-            });
+                folder = pathParts[pathParts.length - 3];
+               return folder.replace(/-[a-z]/g, function (match) {
+                  return match.substr(1).toUpperCase();
+               });
          },
-         prefix: "/components/",
-         template: "angular.module('<%= moduleName %>').run(['$templateCache', function($templateCache) {\n" +
-                     "console.log('<%= moduleName %> run');\n"+
-                   "  $templateCache.put('<%= template.url %>',\n    '<%= template.escapedContent %>');\n" +
-                   "  }]);\n"
-
+         prefix: "components/",
+         template:"(function () {" +
+                  "\t'use strict';\n" +
+                  "\tangular.module('<%= moduleName %>').run(run);\n" +
+                  "\trun.$inject = ['$templateCache'];\n" +
+                  "\tfunction run($templateCache) {\n" +
+                  "\t\tconsole.log('<%= moduleName %> run');\n" +
+                  "\t\t$templateCache.put('<%= template.url %>', '<%= template.escapedContent %>');\n" +
+                  "\t}\n" +
+                  "}());"
       }))
       .pipe(gulp.dest("./public/components"));
 

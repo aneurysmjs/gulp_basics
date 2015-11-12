@@ -71,7 +71,6 @@
          templateUrl: 'components/frameworks/templates/frameworks.tpl.html',
          link: function (scope) {
             scope.isContentVisible = false;
-
             scope.toggleContent = function () {
                scope.isContentVisible = !scope.isContentVisible;
             };

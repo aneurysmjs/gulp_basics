@@ -1,4 +1,4 @@
-(function() {
+(function () {
    'use strict';
    console.log('--- about directive --- ');
 
@@ -15,7 +15,7 @@
          controller: AboutController,
          controllerAs: 'aboutCtrl',
          bindToController: true,
-         templateUrl: 'components/about/about.tpl.html'
+         templateUrl: 'components/about/templates/about.tpl.html'
       };
 
    }

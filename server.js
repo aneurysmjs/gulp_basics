@@ -16,14 +16,14 @@ app.use(bodyParser.urlencoded({                 // pull information from html in
 app.use(methodOverride()); 					      // simulate DELETE and PUT
 app.use(cors());                                // enable CORS
 
-app.all('/*', function(req, res, next) {
+app.all('/*', function (req, res, next) {
    res.header("Access-Control-Allow-Origin", "*");
    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
    res.header("Jero says", "Fuck you!!");
    next();
 });
 
-app.get('/assets/bigJSON', function(req, res) {
+app.get('/assets/bigJSON', function (req, res) {
    //res.send('sisa');
    res.sendFile(__dirname + '/public/assets/bigJSON.json');
 });
@@ -36,11 +36,11 @@ var frameworks = [
     ],
     lastId = frameworks.length + 1;
 
-app.get('/frameworks', function(req, res) {
+app.get('/frameworks', function (req, res) {
    res.send(frameworks);
 });
 
-app.post('/framework', function(req, res) {
+app.post('/framework', function (req, res) {
 
    var framework = req.body;
    console.log('--- req.body--- ');
@@ -55,7 +55,7 @@ app.post('/framework', function(req, res) {
    console.log(framework);
 });
 
-app.post('/framework/:id/done', function(req, res) {
+app.post('/framework/:id/done', function (req, res) {
    var frameworkId = req.params.id,
        framework = null;
    for (var i = 0; i < frameworks.length; i++) {
@@ -68,7 +68,7 @@ app.post('/framework/:id/done', function(req, res) {
    res.send(frameworks);
 });
 
-app.get('/framework/:id', function(req, res) {
+app.get('/framework/:id', function (req, res) {
    for (var i = 0; i < frameworks.length; i++) {
       if (frameworks[i].id == req.params.id) {
          res.send(frameworks[i]);
@@ -78,7 +78,7 @@ app.get('/framework/:id', function(req, res) {
    res.send({msg: 'Note not found'}, 404);
 });
 
-app.post('/framework/:id', function(req, res) {
+app.post('/framework/:id', function (req, res) {
    for (var i = 0; i < frameworks.length; i++) {
       if (frameworks[i].id == req.params.id) {
          frameworks[i] = req.body;

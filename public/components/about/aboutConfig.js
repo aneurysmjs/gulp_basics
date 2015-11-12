@@ -1,5 +1,4 @@
-//Routes
-(function() {
+(function () {
    'use strict';
 
    angular
@@ -16,9 +15,9 @@
       $urlRouterProvider.otherwise('/home');
 
       $stateProvider
-         .state('about',{
+         .state('about', {
             url: '/about',
-            templateUrl: 'components/about/about.html'
+            templateUrl: 'components/about/templates/about.html'
          });
 
    }

@@ -1,4 +1,4 @@
-(function() {
+(function () {
    'use strict';
 
    angular
@@ -14,7 +14,7 @@
          controller: HomeController,
          controllerAs: 'homeCtrl',
          bindToController: true,
-         templateUrl: 'components/home/home.tpl.html'
+         templateUrl: 'components/home/templates/home.tpl.html'
       };
 
    }

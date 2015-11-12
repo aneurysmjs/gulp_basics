@@ -1,5 +1,4 @@
-//Routes
-(function() {
+(function () {
    'use strict';
 
    angular
@@ -7,7 +6,7 @@
       .config(config);
    console.log('--- home config --- ');
 
-   config.$inject = ['$stateProvider', '$urlRouterProvider', '$templateCache'];
+   config.$inject = ['$stateProvider', '$urlRouterProvider'];
 
    function config($stateProvider, $urlRouterProvider) {
 
@@ -18,7 +17,7 @@
       $stateProvider
          .state('home',{
             url: '/home',
-            templateUrl: 'components/home/home.html'
+            templateUrl: 'components/home/templates/home.html'
          });
    }
 
