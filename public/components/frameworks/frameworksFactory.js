@@ -13,17 +13,18 @@
    
       return {
           getFrameworks: getFrameworks,
-          getBigJSON: getBigJSON
+          getBigJSON: getBigJSON,
+          addFramework: addFramework
       };
       
       function getFrameworks() {
 
          return $q(function (resolve, reject) {
+            console.log('--- getFrameworks--- ');
 
             $http({
                url: API_URL + '/frameworks',
-               method: 'GET',
-               cache: jeroCache
+               method: 'GET'
             })
             .then(function (promise) {
                resolve(promise.data);
@@ -51,6 +52,28 @@
 
          });
 
+      }
+
+      function addFramework(framework) {
+
+         return $q(function (resolve, reject) {
+
+            $http({
+               url: API_URL + '/framework',
+               method: 'POST',
+               data: {
+                  "framework": framework
+               }
+            })
+            .then(function (promise) {
+                  console.log('--- promise--- ');
+                  console.log(promise);
+               resolve(promise.data);
+            }, function (reason) {
+               reject(reason);
+            });
+
+         });
       }
       
    }

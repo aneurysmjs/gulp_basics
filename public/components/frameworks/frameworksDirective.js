@@ -25,6 +25,7 @@
    function FrameworksController(frameworksFactory, $scope) {
 
       var self = this;
+      self.framework = {};
 
       activate();
 
@@ -40,7 +41,15 @@
 
       }
 
+      self.addFramework = addFramework;
       self.deleteFramework = deleteFramework;
+
+      function addFramework() {
+         frameworksFactory.addFramework(self.framework).then(function (response) {
+
+            activate();
+         });
+      }
 
       function deleteFramework(framework) {
 
